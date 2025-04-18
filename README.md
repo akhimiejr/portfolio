@@ -60,7 +60,14 @@ I cleaned and preprocessed the raw crime data by handling missing values (e.g., 
 
 Pie chart of weapons used in crime by district in Los Angeles
 
----
+![Screenshot 2024-05-23 111746](https://github.com/user-attachments/assets/7af26b35-c15f-49d0-8bb6-4e8ebb171754)
+
+This bar chart visualizes crime rates across different regions or districts in Los Angeles
+
+![Screenshot 2024-05-23 134108](https://github.com/user-attachments/assets/df7b0c1d-dbff-40a9-99b7-964def1a1350)
+
+Time series analysis
+
 
 
 ---

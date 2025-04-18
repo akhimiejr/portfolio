@@ -39,3 +39,4 @@ I'm a **Data Analyst** with a strong foundation in mathematics and a passion for
 
 ## 📊 What I Do
 I enjoy working on data-driven projects that uncover trends, improve decision-making, and solve real-world problems.
+# Projects

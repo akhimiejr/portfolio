@@ -40,3 +40,36 @@ I'm a **Data Analyst** with a strong foundation in mathematics and a passion for
 ## 📊 What I Do
 I enjoy working on data-driven projects that uncover trends, improve decision-making, and solve real-world problems.
 # Projects
+
+
+
+The project analyzes various crime types, such as violent and non-violent crimes, to understand their frequency, affected demographics, times of occurrence, and geographical distribution. Using **Python**, **Jupyter Notebook**, and libraries like **pandas**, **matplotlib**, **seaborn**, **scikit-learn**, and **plotly**, the analysis employs machine learning models (**Logistic Regression**, **Decision Trees**, and **Random Forest**) to predict crime likelihood and identify key contributing factors.
+
+The practical applications are significant, enabling **financial institutions** to prevent crime and allowing the **LAPD** to optimize patrols based on crime patterns. The study also integrates current crime detection and prevention methodologies, such as **statistical analysis**, **GIS for spatial insights**, and **real-time alert systems**, aiming to enhance **public safety** and **resource efficiency**.
+
+---
+
+##  Key Contributions
+
+###  Model Development  
+I designed and implemented machine learning models including **Logistic Regression**, **Decision Trees**, and **Random Forest** to predict the likelihood of crimes based on time, location, and demographic information. I also developed a predictive service to support law enforcement agencies in proactive crime prevention and optimized resource deployment.
+
+###  Crime Variable Description  
+I analyzed a dataset of over **944,000 LAPD crime reports** and documented **28 key variables**, including crime types, victim demographics, weapon use, geographic data, and timestamps. This analysis was critical to understanding crime patterns and contextual factors.
+
+###  Data Visualization  
+Using libraries like **matplotlib**, **seaborn**, and **plotly**, I created interactive and static visualizations to show crime trends over time, geographic concentrations, and demographic patterns. These visual tools helped uncover important insights and supported model development.
+
+###  Statistical Modeling  
+I conducted **correlation analysis** to explore relationships between variables such as time, location, and victim demographics. These statistical insights informed **feature selection** and improved the interpretability and performance of the machine learning models.
+
+###  Data Cleaning  
+I cleaned and preprocessed the raw crime data by handling missing values (e.g., coordinates like **(0°, 0°)**), fixing formatting issues, and removing inconsistencies. This ensured a clean, reliable dataset for accurate analysis and modeling.
+
+---
+
+
+---
+
+
+

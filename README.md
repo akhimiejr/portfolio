@@ -68,6 +68,9 @@ This bar chart visualizes crime rates across different regions or districts in L
 
 Time series analysis
 
+![Screenshot 2024-05-23 161411](https://github.com/user-attachments/assets/adfe7d1d-4530-48b0-bca8-7ef4c7ecf426)
+
+Decision Trees
 
 
 ---

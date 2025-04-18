@@ -15,7 +15,7 @@ I'm a **Data Analyst** with a strong foundation in mathematics and a passion for
 - Excel  
 
 ## 🎓 Education
-- **MSc in Big Data Analytics** – *University of Derby* (Expected October 2024)  
+- **MSc in Big Data Analytics** – *University of Derby* , October 2024 
 - **BSc in Mathematics** – *Usmanu Danfodiyo University*, November 2019  
 ## 💼 Experience
 

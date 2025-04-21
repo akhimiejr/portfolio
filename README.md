@@ -75,6 +75,18 @@ Decision Trees
 
 # Project 2: Predictive Analysis of Neurological Disorder Susceptibility Pattern for Urban Elderly Population
 # https://github.com/akhimiejr/PREDICTIVE-ANALYSIS-DEMENTIA
+
+This study investigates dementia susceptibility among urban elderly populations, a group particularly vulnerable due to socio-environmental factors like stress, pollution, and lifestyle. Recognizing limitations in existing research—such as data diversity, model generalizability, and clinical integration—the study employs advanced machine learning techniques such as logistic regression and neural networks to improve early detection and prediction accuracy. The research combines a literature review with analysis of demographic and health data from urban healthcare centers to identify key dementia risk factors.
+## Project Aim and Objectives
+The primary aim of this research project is to develop a robust predictive Magnetic Resonance Imaging model that can accurately identify and classify dementia in urban populations using advanced machine learning techniques. The study seeks to address the gaps in current dementia research by focusing on the unique environmental, social, and economic factors prevalent in urban settings, which may influence the onset and progression of dementia. To achieve this aim, the following objectives have been established
+-	Develop a brain MRI-based model to classify dementia stages in urban populations, aiming to surpass the accuracy of generalized models. This will enhance early detection and targeted treatment for urban individuals.
+- Identify urban-specific risk factors like pollution and social isolation that influence dementia onset and progression. Incorporate these factors into predictive models for better relevance and accuracy.
+-	Investigate disparities in dementia care related to socio-economic status, ethnicity, and cultural factors in urban settings. Identify key factors to address inequities and improve care quality.
+-	Create recommendations to enhance urban dementia care through early diagnosis, personalized treatment, and equitable access. Guide policymakers and healthcare providers with evidence-based strategies.
+## Key contribution
+This Project contributes significantly to public health by developing predictive models tailored to urban elderly populations, revealing key socio-economic and environmental risk factors for dementia. These insights can inform targeted public health policies, such as reducing pollution and improving mental health services. Clinically, the study enhances early detection and personalized care through predictive analytics, improving diagnosis and treatment outcomes. It also lays the groundwork for future research into the mechanisms of urban-related dementia risk and encourages the application of similar methods to other neurological disorders. Overall, the study offers actionable insights to better understand and address dementia in urban settings.
+
+
 ---
 
 

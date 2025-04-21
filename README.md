@@ -100,6 +100,35 @@ The bar chart provides a visual summary of the precision, recall, and F1-score f
 The confusion matrix highlights the model's performance across four classes: Non demented, Mild Dementia, Moderate Dementia, and Very mild Dementia
 
 # Project 3: Credit Card Fraud Detection 
+# https://github.com/akhimiejr/Credit-Card-Fraud-Detection
+
+Fraud is a pervasive issue that affects businesses across various industries, leading to 
+significant financial losses and reputational damage. With the advent of digital transactions 
+and e-commerce, the risk of fraud has escalated, necessitating robust fraud detection and 
+prevention mechanisms. This study aims to leverage data analytics and historical transaction 
+data to uncover insights and develop robust fraud prevention strategies and anomalies that 
+can indicate fraudulent activities, thereby enabling organizations to take proactive measures 
+to mitigate fraud risks.
+
+ ## Aim and Objectives 
+The primary aim of this Project is to analyse a credit card fraud dataset to the identify patterns 
+and gain a comprehensive insight that can aid in the detection and prevention of fraudulent 
+activities. This will assist the banking industry in making critical step by which their 
+customers use their credit card for transactions.  
+The transaction data set that is being explored will also assist the companies in exploring their 
+customer spending habits, age groups that transact the most, time period where transactions 
+occur, helping the company plan resource allocation there by optimising response time from 
+their customer care departments. 
+## Key Contributions 
+- Perform exploratory data analysis on the fraud dataset to understand the nature and 
+characteristics of the data. 
+- Identify key factors and variables that contribute to the likelihood of fraudulent 
+transactions. 
+- Develop strategies and techniques for detecting and preventing fraud based on the insights 
+gained from the analysis. 
+- Compare the effectiveness and efficiency of SAS and Tableau in performing fraud 
+analytics and data visualization.
+
 
 
 

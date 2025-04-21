@@ -86,6 +86,20 @@ The primary aim of this research project is to develop a robust predictive Magne
 -	Create recommendations to enhance urban dementia care through early diagnosis, personalized treatment, and equitable access. Guide policymakers and healthcare providers with evidence-based strategies.
 ## Key contribution
 This Project contributes significantly to public health by developing predictive models tailored to urban elderly populations, revealing key socio-economic and environmental risk factors for dementia. These insights can inform targeted public health policies, such as reducing pollution and improving mental health services. Clinically, the study enhances early detection and personalized care through predictive analytics, improving diagnosis and treatment outcomes. It also lays the groundwork for future research into the mechanisms of urban-related dementia risk and encourages the application of similar methods to other neurological disorders. Overall, the study offers actionable insights to better understand and address dementia in urban settings.
+# Some Virtualization
+![image](https://github.com/user-attachments/assets/a6aa7430-ec58-4ab5-b213-483cc32e4917)
+
+Exploratory data labelling
+
+![image](https://github.com/user-attachments/assets/248ac053-1c21-4948-9283-34c71a11f6fa)
+
+The bar chart provides a visual summary of the precision, recall, and F1-score for a classification model across four classes.
+
+![image](https://github.com/user-attachments/assets/9a1b3253-3026-4134-aad2-463cae13f34c)
+
+The confusion matrix highlights the model's performance across four classes: Non demented, Mild Dementia, Moderate Dementia, and Very mild Dementia
+
+
 
 
 ---

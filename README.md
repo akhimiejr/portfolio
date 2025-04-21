@@ -99,6 +99,7 @@ The bar chart provides a visual summary of the precision, recall, and F1-score f
 
 The confusion matrix highlights the model's performance across four classes: Non demented, Mild Dementia, Moderate Dementia, and Very mild Dementia
 
+# Project 3: Credit Card Fraud Detection 
 
 
 

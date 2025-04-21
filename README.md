@@ -2,7 +2,7 @@
 # AKHIMIE JOSEPH
 ![IMG-20231115-WA0020](https://github.com/user-attachments/assets/36a67308-a6d7-41a2-8492-d9d77e048802)
 
-[PROJECT LINK] (https://github.com/akhimiejr/PREDICTIVE-ANALYSIS-DEMENTIA-)
+
 # 👋 Hi there!
 
 I'm a **Data Analyst** with a strong foundation in mathematics and a passion for transforming data into actionable insights.

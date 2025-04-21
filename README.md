@@ -150,6 +150,18 @@ either female or male was $71,  which is a characteristic of fraudulent transact
 or higher the average spend of a customer. This makes sense as scammers would want to cash 
 in big in order to get away with as much more as they can.  
 
+![Screenshot 2025-04-21 143507](https://github.com/user-attachments/assets/84ed3e56-f656-4d71-8fb8-7fc2491884dc)
+
+Age distribution, gender, and fraudulent activity
+
+![Screenshot 2025-04-21 143653](https://github.com/user-attachments/assets/12f7f63a-e253-4e14-a33d-4d7a15f29611)
+
+ Bar chart of age bracket targeted by fraudsters 
+
+Imploring a bar graph to assist in buttressing the insight of our analysis, we can see that middled 
+aged male customer are the most defrauded within our customer base followed by elderly 
+women and young women. Teenage male customers also tend to fall victim as well.
+
 
 
 ---

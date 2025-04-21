@@ -1,6 +1,7 @@
 # portfolio
 # AKHIMIE JOSEPH
-![IMG-20231115-WA0020](https://github.com/user-attachments/assets/36a67308-a6d7-41a2-8492-d9d77e048802)
+![IMG-20231115-WA0020 (1)](https://github.com/user-attachments/assets/f63ee171-6b3a-4a58-aa2a-db04bd294e86)
+
 
 
 # 👋 Hi there!

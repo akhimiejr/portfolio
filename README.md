@@ -129,6 +129,26 @@ gained from the analysis.
 - Compare the effectiveness and efficiency of SAS and Tableau in performing fraud 
 analytics and data visualization.
 
+## Some Virtualization
+<img width="386" alt="Screenshot 2025-04-21 140935" src="https://github.com/user-attachments/assets/5c63184e-34c8-472b-afcb-84c11d8b8b2e" />
+
+ Box plot of age of customer by gender 
+ 
+In the above figure, it is demostrated that on average the male customers are older than the 
+female customer. With the female customer on average being in their forties and the male 
+customers are in their fifties. This insight os quite significant as stakeholders in the 
+customer experience team can use this detial and reach out to older customers especially, 
+giving them training on how to spot fraudulent transactions there by curbing the risk of them 
+falling victim to scam.
+
+![Screenshot 2025-04-21 143046](https://github.com/user-attachments/assets/adaa7198-4531-4d4f-bbe9-edd9acb9dda6)
+
+Pie chart showing the spend range and total fraudulent amount.
+
+Our earlier analysis showed that the average amount spent on any transaction by a customer, 
+either female or male was $71,  which is a characteristic of fraudulent transactions, the observation is that fraudulent transactions tend to be three times 
+or higher the average spend of a customer. This makes sense as scammers would want to cash 
+in big in order to get away with as much more as they can.  
 
 
 

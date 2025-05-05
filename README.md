@@ -75,7 +75,7 @@ Time series analysis
 Decision Trees
 
 # Project 2: Predictive Analysis of Neurological Disorder Susceptibility Pattern for Urban Elderly Population
-# https://github.com/akhimiejr/PREDICTIVE-ANALYSIS-DEMENTIA
+# https://github.com/akhimiejr/PREDICTIVE-ANALYSIS-DEMENTIA-
 
 This study investigates dementia susceptibility among urban elderly populations, a group particularly vulnerable due to socio-environmental factors like stress, pollution, and lifestyle. Recognizing limitations in existing research—such as data diversity, model generalizability, and clinical integration—the study employs advanced machine learning techniques such as logistic regression and neural networks to improve early detection and prediction accuracy. The research combines a literature review with analysis of demographic and health data from urban healthcare centers to identify key dementia risk factors.
 ## Project Aim and Objectives

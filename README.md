@@ -13,7 +13,8 @@ I'm a **Data Analyst** with a strong foundation in mathematics and a passion for
 - SQL  
 - R Studio  
 - Power BI  
-- Excel  
+- Excel
+- Tableau 
 
 ## 🎓 Education
 - MSc in Big Data Analytics – *University of Derby* , October 2024 
@@ -74,32 +75,7 @@ Time series analysis
 
 Decision Trees
 
-# Project 2: Predictive Analysis of Neurological Disorder Susceptibility Pattern for Urban Elderly Population
-# https://github.com/akhimiejr/PREDICTIVE-ANALYSIS-DEMENTIA-
-
-This study investigates dementia susceptibility among urban elderly populations, a group particularly vulnerable due to socio-environmental factors like stress, pollution, and lifestyle. Recognizing limitations in existing research—such as data diversity, model generalizability, and clinical integration—the study employs advanced machine learning techniques such as logistic regression and neural networks to improve early detection and prediction accuracy. The research combines a literature review with analysis of demographic and health data from urban healthcare centers to identify key dementia risk factors.
-## Project Aim and Objectives
-The primary aim of this research project is to develop a robust predictive Magnetic Resonance Imaging model that can accurately identify and classify dementia in urban populations using advanced machine learning techniques. The study seeks to address the gaps in current dementia research by focusing on the unique environmental, social, and economic factors prevalent in urban settings, which may influence the onset and progression of dementia. To achieve this aim, the following objectives have been established
--	Develop a brain MRI-based model to classify dementia stages in urban populations, aiming to surpass the accuracy of generalized models. This will enhance early detection and targeted treatment for urban individuals.
-- Identify urban-specific risk factors like pollution and social isolation that influence dementia onset and progression. Incorporate these factors into predictive models for better relevance and accuracy.
--	Investigate disparities in dementia care related to socio-economic status, ethnicity, and cultural factors in urban settings. Identify key factors to address inequities and improve care quality.
--	Create recommendations to enhance urban dementia care through early diagnosis, personalized treatment, and equitable access. Guide policymakers and healthcare providers with evidence-based strategies.
-## Key contribution
-This Project contributes significantly to public health by developing predictive models tailored to urban elderly populations, revealing key socio-economic and environmental risk factors for dementia. These insights can inform targeted public health policies, such as reducing pollution and improving mental health services. Clinically, the study enhances early detection and personalized care through predictive analytics, improving diagnosis and treatment outcomes. It also lays the groundwork for future research into the mechanisms of urban-related dementia risk and encourages the application of similar methods to other neurological disorders. Overall, the study offers actionable insights to better understand and address dementia in urban settings.
-# Some Virtualization
-![image](https://github.com/user-attachments/assets/a6aa7430-ec58-4ab5-b213-483cc32e4917)
-
-Exploratory data labelling
-
-![image](https://github.com/user-attachments/assets/248ac053-1c21-4948-9283-34c71a11f6fa)
-
-The bar chart provides a visual summary of the precision, recall, and F1-score for a classification model across four classes.
-
-![image](https://github.com/user-attachments/assets/9a1b3253-3026-4134-aad2-463cae13f34c)
-
-The confusion matrix highlights the model's performance across four classes: Non demented, Mild Dementia, Moderate Dementia, and Very mild Dementia
-
-# Project 3: Credit Card Fraud Detection 
+# Project 2: Credit Card Fraud Detection 
 # https://github.com/akhimiejr/Credit-Card-Fraud-Detection
 
 Fraud is a pervasive issue that affects businesses across various industries, leading to 
@@ -161,6 +137,33 @@ Age distribution, gender, and fraudulent activity
 Imploring a bar graph to assist in buttressing the insight of our analysis, we can see that middled 
 aged male customer are the most defrauded within our customer base followed by elderly 
 women and young women. Teenage male customers also tend to fall victim as well.
+
+# Project 3: Predictive Analysis of Neurological Disorder Susceptibility Pattern for Urban Elderly Population
+# https://github.com/akhimiejr/PREDICTIVE-ANALYSIS-DEMENTIA-
+
+This study investigates dementia susceptibility among urban elderly populations, a group particularly vulnerable due to socio-environmental factors like stress, pollution, and lifestyle. Recognizing limitations in existing research—such as data diversity, model generalizability, and clinical integration—the study employs advanced machine learning techniques such as logistic regression and neural networks to improve early detection and prediction accuracy. The research combines a literature review with analysis of demographic and health data from urban healthcare centers to identify key dementia risk factors.
+## Project Aim and Objectives
+The primary aim of this research project is to develop a robust predictive Magnetic Resonance Imaging model that can accurately identify and classify dementia in urban populations using advanced machine learning techniques. The study seeks to address the gaps in current dementia research by focusing on the unique environmental, social, and economic factors prevalent in urban settings, which may influence the onset and progression of dementia. To achieve this aim, the following objectives have been established
+-	Develop a brain MRI-based model to classify dementia stages in urban populations, aiming to surpass the accuracy of generalized models. This will enhance early detection and targeted treatment for urban individuals.
+- Identify urban-specific risk factors like pollution and social isolation that influence dementia onset and progression. Incorporate these factors into predictive models for better relevance and accuracy.
+-	Investigate disparities in dementia care related to socio-economic status, ethnicity, and cultural factors in urban settings. Identify key factors to address inequities and improve care quality.
+-	Create recommendations to enhance urban dementia care through early diagnosis, personalized treatment, and equitable access. Guide policymakers and healthcare providers with evidence-based strategies.
+## Key contribution
+This Project contributes significantly to public health by developing predictive models tailored to urban elderly populations, revealing key socio-economic and environmental risk factors for dementia. These insights can inform targeted public health policies, such as reducing pollution and improving mental health services. Clinically, the study enhances early detection and personalized care through predictive analytics, improving diagnosis and treatment outcomes. It also lays the groundwork for future research into the mechanisms of urban-related dementia risk and encourages the application of similar methods to other neurological disorders. Overall, the study offers actionable insights to better understand and address dementia in urban settings.
+# Some Virtualization
+![image](https://github.com/user-attachments/assets/a6aa7430-ec58-4ab5-b213-483cc32e4917)
+
+Exploratory data labelling
+
+![image](https://github.com/user-attachments/assets/248ac053-1c21-4948-9283-34c71a11f6fa)
+
+The bar chart provides a visual summary of the precision, recall, and F1-score for a classification model across four classes.
+
+![image](https://github.com/user-attachments/assets/9a1b3253-3026-4134-aad2-463cae13f34c)
+
+The confusion matrix highlights the model's performance across four classes: Non demented, Mild Dementia, Moderate Dementia, and Very mild Dementia
+
+
 
 
 

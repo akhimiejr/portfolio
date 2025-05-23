@@ -1,4 +1,3 @@
-# AKHIMIE JOSEPH
 ![IMG-20231115-WA0020 (1)](https://github.com/user-attachments/assets/f63ee171-6b3a-4a58-aa2a-db04bd294e86)
 
 

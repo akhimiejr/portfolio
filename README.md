@@ -72,7 +72,7 @@ Time series analysis
 
 Decision Trees
 
-### [Project 2: Credit Card Fraud Detection](https://github.com/akhimiejr/Credit-Card-Fraud-Detection-)
+### [Project 2: Credit Card Fraud Detection](https://akhimiejr.github.io/Credit-Card-Fraud-Detection-/)
 
 Fraud is a pervasive issue that affects businesses across various industries, leading to 
 significant financial losses and reputational damage. With the advent of digital transactions 

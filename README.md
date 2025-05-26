@@ -41,7 +41,7 @@ I'm a **Data Analyst** with a strong foundation in mathematics and a passion for
 I enjoy working on data-driven projects that uncover trends, improve decision-making, and solve real-world problems.
 ## Projects
 
-### [Project 1: CRIME ANALYSIS REPORT](https://github.com/akhimiejr/CRIME-ANALYSIS-REPORT-FROM)
+### [Project 1: CRIME ANALYSIS REPORT](https://akhimiejr.github.io/CRIME-ANALYSIS-REPORT-FROM/)
 
 The project analyzes various crime types, such as violent and non-violent crimes, to understand their frequency, affected demographics, times of occurrence, and geographical distribution. Using Python, Jupyter Notebook, and libraries like pandas, matplotlib, seaborn, scikit-learn, and plotly, the analysis employs machine learning models Logistic Regression, Decision Trees, and Random Forest to predict crime likelihood and identify key contributing factors. The practical applications are significant, enabling financial institutions to prevent crime and allowing the LAPD to optimize patrols based on crime patterns. The study also integrates current crime detection and prevention methodologies, such as statistical analysis, GIS for spatial insights, and real-time alert systems, aiming to enhance public safety and resource efficiency.
 ##  Key Contributions

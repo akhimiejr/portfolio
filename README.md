@@ -45,7 +45,7 @@ I enjoy working on data-driven projects that uncover trends, improve decision-ma
 At Café Harmony, we have been navigating a period of impressive growth, which has brought new challenges as we scale to meet increasing customer demand with multiple locations across the city, each with unique customer preferences and performance metrics, maintaining efficient operations and delivering a consistently high-quality experience has become increasingly complex.
 To address these challenges, My team and I proactively applied Root Cause Analysis (RCA) to uncover the underlying sources of inefficiency, implemented Lean Management principles to streamline operations and reduce waste, and leveraged Data-Driven Decision Making (DDDM) to track sales trends and performance metrics across all locations. We also embraced Continuous Improvement (Kaizen) practices to support sustainable growth and long-term operational excellence. Simultaneously, we conducted in-depth customer analysis to refine service delivery and elevate satisfaction, ensuring every customer interaction aligns with Café Harmony’s high standards.
 Through these initiatives, we are focused on optimizing resource management, enhancing staff performance, and strengthening service strategies creating a foundation for sustainable growth while continuing to provide the exceptional experience that our customers have come to expect
-# Key Contribution
+# Key Contributions
 ## Data Cleaning and Preparation
 
 I ensured all operational and sales datasets were meticulously cleaned and standardised, making them ready for detailed analysis. This step eliminated inconsistencies and errors, creating a reliable foundation for accurate insights across multiple café locations.

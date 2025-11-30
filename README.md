@@ -46,31 +46,31 @@ At Café Harmony, we have been navigating a period of impressive growth, which h
 To address these challenges, My team and I proactively applied Root Cause Analysis (RCA) to uncover the underlying sources of inefficiency, implemented Lean Management principles to streamline operations and reduce waste, and leveraged Data-Driven Decision Making (DDDM) to track sales trends and performance metrics across all locations. We also embraced Continuous Improvement (Kaizen) practices to support sustainable growth and long-term operational excellence. Simultaneously, we conducted in-depth customer analysis to refine service delivery and elevate satisfaction, ensuring every customer interaction aligns with Café Harmony’s high standards.
 Through these initiatives, we are focused on optimizing resource management, enhancing staff performance, and strengthening service strategies creating a foundation for sustainable growth while continuing to provide the exceptional experience that our customers have come to expect
 # Key Contribution
-1. Data Cleaning and Preparation
+ Data Cleaning and Preparation
 
 I ensured all operational and sales datasets were meticulously cleaned and standardised, making them ready for detailed analysis. This step eliminated inconsistencies and errors, creating a reliable foundation for accurate insights across multiple café locations.
 
-2. Comprehensive Data Analysis
+Comprehensive Data Analysis
 
 Using advanced Excel formulas such as SUMIF, COUNTIF, VLOOKUP, and INDEX/MATCH, we analysed sales, product performance, employee performance, and customer trends. This enabled precise measurement of key metrics and identification of performance gaps across locations.
 
-3. Dashboard Creation and Visualisation
+ Dashboard Creation and Visualisation
 
 I developed interactive dashboards using pivot tables, slicers, and charts to visually communicate business insights. These dashboards provided real-time visibility into sales trends, product performance, customer demographics, and inventory status, enabling quicker, informed decisions.
 
-4. Sales Performance Insights
+ Sales Performance Insights
 
 By tracking overall sales trends across all locations, I identified periods of peak performance and potential slowdowns. This allowed management to optimise promotions, staffing, and operational focus to maximise revenue consistently.
 
-5. Product and Stock Performance Optimisation
+ Product and Stock Performance Optimisation
 
 Analysis of menu items highlighted top-selling products generating the highest revenue, as well as low running stock items across locations. This insight supported targeted inventory management and menu adjustments, reducing waste and improving profitability.
 
-6. Employee Performance Assessment
+ Employee Performance Assessment
 
 I evaluated staff performance by correlating individual sales data with location benchmarks. Identifying above and below average performers enabled focused training, performance recognition, and operational improvements to enhance overall team efficiency.
 
-7. Customer Insights and Feedback Analysis
+ Customer Insights and Feedback Analysis
 
 Customer demographics and satisfaction data were analysed to uncover trends driving the highest sales and overall satisfaction. These insights informed service enhancements, personalised offers, and engagement strategies, ensuring a consistently exceptional customer experience.
 # Pivot Table Analysis

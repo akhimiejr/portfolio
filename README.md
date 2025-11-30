@@ -41,7 +41,9 @@ I'm a **Data Analyst** with a strong foundation in mathematics and a passion for
 I enjoy working on data-driven projects that uncover trends, improve decision-making, and solve real-world problems.
 ## Projects
 
-### [Project 1: CRIME ANALYSIS REPORT](https://akhimiejr.github.io/CRIME-ANALYSIS-REPORT-FROM/)
+### [Project 1: CAFE-HARMONY-PROJECT](https://github.com/akhimiejr/CAFE-HARMONY-PROJECT-)
+
+### [Project 2: CRIME ANALYSIS REPORT](https://akhimiejr.github.io/CRIME-ANALYSIS-REPORT-FROM/)
 
 The project analyzes various crime types, such as violent and non-violent crimes, to understand their frequency, affected demographics, times of occurrence, and geographical distribution. Using Python, Jupyter Notebook, and libraries like pandas, matplotlib, seaborn, scikit-learn, and plotly, the analysis employs machine learning models Logistic Regression, Decision Trees, and Random Forest to predict crime likelihood and identify key contributing factors. The practical applications are significant, enabling financial institutions to prevent crime and allowing the LAPD to optimize patrols based on crime patterns. The study also integrates current crime detection and prevention methodologies, such as statistical analysis, GIS for spatial insights, and real-time alert systems, aiming to enhance public safety and resource efficiency.
 ##  Key Contributions
@@ -72,7 +74,7 @@ Time series analysis
 
 Decision Trees
 
-### [Project 2: Credit Card Fraud Detection](https://akhimiejr.github.io/Credit-Card-Fraud-Detection-/)
+### [Project 3: Credit Card Fraud Detection](https://akhimiejr.github.io/Credit-Card-Fraud-Detection-/)
 
 Fraud is a pervasive issue that affects businesses across various industries, leading to 
 significant financial losses and reputational damage. With the advent of digital transactions 
@@ -134,7 +136,7 @@ Imploring a bar graph to assist in buttressing the insight of our analysis, we c
 aged male customer are the most defrauded within our customer base followed by elderly 
 women and young women. Teenage male customers also tend to fall victim as well.
 
-### [Project 3: Predictive Analysis of Neurological Disorder Susceptibility Pattern for Urban Elderly Population](https://github.com/akhimiejr/PREDICTIVE-ANALYSIS-DEMENTIA-)
+### [Project 4: Predictive Analysis of Neurological Disorder Susceptibility Pattern for Urban Elderly Population](https://github.com/akhimiejr/PREDICTIVE-ANALYSIS-DEMENTIA-)
 
 This study investigates dementia susceptibility among urban elderly populations, a group particularly vulnerable due to socio-environmental factors like stress, pollution, and lifestyle. Recognizing limitations in existing research—such as data diversity, model generalizability, and clinical integration—the study employs advanced machine learning techniques such as logistic regression and neural networks to improve early detection and prediction accuracy. The research combines a literature review with analysis of demographic and health data from urban healthcare centers to identify key dementia risk factors.
 ## Project Aim and Objectives

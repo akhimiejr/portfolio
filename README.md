@@ -48,35 +48,37 @@ Through these initiatives, we are focused on optimizing resource management, enh
 # Key Contribution
 1. Data Cleaning and Preparation
 
-We ensured all operational and sales datasets were meticulously cleaned and standardised, making them ready for detailed analysis. This step eliminated inconsistencies and errors, creating a reliable foundation for accurate insights across multiple café locations.
+I ensured all operational and sales datasets were meticulously cleaned and standardised, making them ready for detailed analysis. This step eliminated inconsistencies and errors, creating a reliable foundation for accurate insights across multiple café locations.
 
-3. Comprehensive Data Analysis
+2. Comprehensive Data Analysis
 
 Using advanced Excel formulas such as SUMIF, COUNTIF, VLOOKUP, and INDEX/MATCH, we analysed sales, product performance, employee performance, and customer trends. This enabled precise measurement of key metrics and identification of performance gaps across locations.
 
-4. Dashboard Creation and Visualisation
+3. Dashboard Creation and Visualisation
 
-We developed interactive dashboards using pivot tables, slicers, and charts to visually communicate business insights. These dashboards provided real-time visibility into sales trends, product performance, customer demographics, and inventory status, enabling quicker, informed decisions.
+I developed interactive dashboards using pivot tables, slicers, and charts to visually communicate business insights. These dashboards provided real-time visibility into sales trends, product performance, customer demographics, and inventory status, enabling quicker, informed decisions.
 
-5. Sales Performance Insights
+4. Sales Performance Insights
 
-By tracking overall sales trends across all locations, we identified periods of peak performance and potential slowdowns. This allowed management to optimise promotions, staffing, and operational focus to maximise revenue consistently.
+By tracking overall sales trends across all locations, I identified periods of peak performance and potential slowdowns. This allowed management to optimise promotions, staffing, and operational focus to maximise revenue consistently.
 
-6. Product and Stock Performance Optimisation
+5. Product and Stock Performance Optimisation
 
-Analysis of menu items highlighted top-selling products generating the highest revenue, as well as low-running stock items across locations. This insight supported targeted inventory management and menu adjustments, reducing waste and improving profitability.
+Analysis of menu items highlighted top-selling products generating the highest revenue, as well as low running stock items across locations. This insight supported targeted inventory management and menu adjustments, reducing waste and improving profitability.
 
-7. Employee Performance Assessment
+6. Employee Performance Assessment
 
-We evaluated staff performance by correlating individual sales data with location benchmarks. Identifying above- and below-average performers enabled focused training, performance recognition, and operational improvements to enhance overall team efficiency.
+I evaluated staff performance by correlating individual sales data with location benchmarks. Identifying above and below average performers enabled focused training, performance recognition, and operational improvements to enhance overall team efficiency.
 
-8. Customer Insights and Feedback Analysis
+7. Customer Insights and Feedback Analysis
 
 Customer demographics and satisfaction data were analysed to uncover trends driving the highest sales and overall satisfaction. These insights informed service enhancements, personalised offers, and engagement strategies, ensuring a consistently exceptional customer experience.
 # Pivot Table Analysis
 <img width="1905" height="650" alt="Screenshot 2025-11-30 100745" src="https://github.com/user-attachments/assets/f04d8815-54a5-4340-bf9c-7026881abbc3" />
 The image Above displays an Excel workbook transformed into a compact analytics dashboard using PivotTables, summary statistics, and visual charts to provide a comprehensive, data-driven overview of key business performance metrics for café Harmony
+
 # Dashboard
+
 
 <img width="1482" height="503" alt="Screenshot 2025-11-23 130931" src="https://github.com/user-attachments/assets/8b52bb36-94ab-4c3c-a26c-14ae7d285903" />
 

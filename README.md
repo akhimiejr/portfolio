@@ -77,7 +77,10 @@ Customer demographics and satisfaction data were analysed to uncover trends driv
 <img width="1905" height="650" alt="Screenshot 2025-11-30 100745" src="https://github.com/user-attachments/assets/f04d8815-54a5-4340-bf9c-7026881abbc3" />
 The image Above displays an Excel workbook transformed into a compact analytics dashboard using PivotTables, summary statistics, and visual charts to provide a comprehensive, data-driven overview of key business performance metrics for café Harmony
 # Dashboard
+
 <img width="1482" height="503" alt="Screenshot 2025-11-23 130931" src="https://github.com/user-attachments/assets/8b52bb36-94ab-4c3c-a26c-14ae7d285903" />
+
+
 The Cafe Harmony Sales & Performance Dashboard provides a comprehensive insight of the café’s overall business health, showing total sales of £12,589.95 generated from 1003 customers, with 10 main stock items tracked and an average customer rating of 3.05. Monthly sales trends reveal fluctuations throughout the year, peaking in May and dipping in March, while demographic data shows a nearly even distribution across young adults, adults, and elderly customers. Product performance highlights Muffins, Latte, and Iced Tea as top revenue generators, whereas items like Cappuccino and Sandwiches perform less strongly. Stock movement indicates high usage of milk, croissant dough, and iced tea bags, contrasted with increases in sugar and coffee beans. Staff performance displays notable variation, with high achievers like Megan White outperforming others. Rating analysis reveals a predominance of 4- and 5-star reviews despite the moderate overall average. Together, these insights show strong product engagement, steady customer traffic, opportunities for inventory optimization, and areas for staff development and service improvement.
 
 

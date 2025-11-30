@@ -47,25 +47,40 @@ To address these challenges, My team and I proactively applied Root Cause Analys
 Through these initiatives, we are focused on optimizing resource management, enhancing staff performance, and strengthening service strategies creating a foundation for sustainable growth while continuing to provide the exceptional experience that our customers have come to expect
 # Key Contribution
 1. Data Cleaning and Preparation
+
 We ensured all operational and sales datasets were meticulously cleaned and standardised, making them ready for detailed analysis. This step eliminated inconsistencies and errors, creating a reliable foundation for accurate insights across multiple café locations.
 
-2. Comprehensive Data Analysis
+3. Comprehensive Data Analysis
+
 Using advanced Excel formulas such as SUMIF, COUNTIF, VLOOKUP, and INDEX/MATCH, we analysed sales, product performance, employee performance, and customer trends. This enabled precise measurement of key metrics and identification of performance gaps across locations.
 
-3. Dashboard Creation and Visualisation
+4. Dashboard Creation and Visualisation
+
 We developed interactive dashboards using pivot tables, slicers, and charts to visually communicate business insights. These dashboards provided real-time visibility into sales trends, product performance, customer demographics, and inventory status, enabling quicker, informed decisions.
 
-4. Sales Performance Insights
+5. Sales Performance Insights
+
 By tracking overall sales trends across all locations, we identified periods of peak performance and potential slowdowns. This allowed management to optimise promotions, staffing, and operational focus to maximise revenue consistently.
 
-5. Product and Stock Performance Optimisation
+6. Product and Stock Performance Optimisation
+
 Analysis of menu items highlighted top-selling products generating the highest revenue, as well as low-running stock items across locations. This insight supported targeted inventory management and menu adjustments, reducing waste and improving profitability.
 
-6. Employee Performance Assessment
+7. Employee Performance Assessment
+
 We evaluated staff performance by correlating individual sales data with location benchmarks. Identifying above- and below-average performers enabled focused training, performance recognition, and operational improvements to enhance overall team efficiency.
 
-7. Customer Insights and Feedback Analysis
+8. Customer Insights and Feedback Analysis
+
 Customer demographics and satisfaction data were analysed to uncover trends driving the highest sales and overall satisfaction. These insights informed service enhancements, personalised offers, and engagement strategies, ensuring a consistently exceptional customer experience.
+# Pivot Table Analysis
+<img width="1905" height="650" alt="Screenshot 2025-11-30 100745" src="https://github.com/user-attachments/assets/f04d8815-54a5-4340-bf9c-7026881abbc3" />
+The image Above displays an Excel workbook transformed into a compact analytics dashboard using PivotTables, summary statistics, and visual charts to provide a comprehensive, data-driven overview of key business performance metrics for café Harmony
+# Dashboard
+<img width="1482" height="503" alt="Screenshot 2025-11-23 130931" src="https://github.com/user-attachments/assets/8b52bb36-94ab-4c3c-a26c-14ae7d285903" />
+The Cafe Harmony Sales & Performance Dashboard provides a comprehensive insight of the café’s overall business health, showing total sales of £12,589.95 generated from 1003 customers, with 10 main stock items tracked and an average customer rating of 3.05. Monthly sales trends reveal fluctuations throughout the year, peaking in May and dipping in March, while demographic data shows a nearly even distribution across young adults, adults, and elderly customers. Product performance highlights Muffins, Latte, and Iced Tea as top revenue generators, whereas items like Cappuccino and Sandwiches perform less strongly. Stock movement indicates high usage of milk, croissant dough, and iced tea bags, contrasted with increases in sugar and coffee beans. Staff performance displays notable variation, with high achievers like Megan White outperforming others. Rating analysis reveals a predominance of 4- and 5-star reviews despite the moderate overall average. Together, these insights show strong product engagement, steady customer traffic, opportunities for inventory optimization, and areas for staff development and service improvement.
+
+
 
 ### [Project 2: CRIME ANALYSIS REPORT](https://akhimiejr.github.io/CRIME-ANALYSIS-REPORT-FROM/)
 

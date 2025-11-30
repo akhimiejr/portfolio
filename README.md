@@ -4,7 +4,7 @@
 
 # 👋 Hi there!
 
-I'm a **Data Analyst** with a strong foundation in mathematics and a passion for transforming data into actionable insights.
+I am a **Data Analyst** with a strong foundation in mathematics and passion for transforming data into actionable insights.
 
 ## 💻 Technical Skills
 - Python  

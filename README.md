@@ -57,6 +57,14 @@ satisfaction.
 # Key Contributions
 ## 1. End-to-End Data Interpretation and Insight Generation:
 I conducted a full review of the dataset and dashboards, extracting key trends, patterns, and performance gaps across products, customers, regions, and operational processes. This included interpreting metrics such as revenue performance, profit margin, and order volume to form actionable analysis aligned with business priorities.
+## 2. Critical Performance Evaluation Across Business Dimensions:
+A structured assessment was completed across major analytical categories including product profitability, customer segmentation, geographic distribution, shipping behavior, and seasonal trends. This allowed for a comprehensive understanding of strengths, weaknesses, and operational inefficiencies affecting overall performance.
+## 3. Strategic Improvement Recommendations:
+I translated analytical findings into targeted business recommendations addressing profitability optimization, logistics cost control, product mix refinement, customer retention, and market expansion. These recommendations were aligned with practical business applications and designed to support margin improvement and growth strategy.
+## 4. Data Storytelling and Insight Summarization:
+The analysis was refined into clear, concise narrative summaries suitable for stakeholder communication. Insights were structured to support executive-level decision-making, ensuring the data could be easily understood, prioritized, and used to inform next steps across operational and strategic functions.
+## 5. Model and Structure Review for Analytics Maturity:
+Beyond visual insights, I evaluated the underlying Power BI data model, confirming appropriate schema structure, relationships, and calculated measure organization. This contribution supports scalability, maintainability, and future enhancements to reporting capabilities and analytical rigor.
 
 ## EXCELS PROJECTS
 ### [Project 2: CAFE-HARMONY-PROJECT](https://github.com/akhimiejr/CAFE-HARMONY-PROJECT-)

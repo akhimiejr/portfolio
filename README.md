@@ -82,7 +82,7 @@ Customer performance analysis reveals that profitability is concentrated among a
 
 <img width="1271" height="785" alt="Screenshot 2025-11-28 165820" src="https://github.com/user-attachments/assets/77d72a84-ac2a-404d-9a7d-23a12878133e" />
 
-## EXCELS PROJECTS
+## EXCEL PROJECTS
 ### [Project 2: CAFE-HARMONY-PROJECT](https://github.com/akhimiejr/CAFE-HARMONY-PROJECT-)
 At Café Harmony, we have been navigating a period of impressive growth, which has brought new challenges as we scale to meet increasing customer demand with multiple locations across the city, each with unique customer preferences and performance metrics, maintaining efficient operations and delivering a consistently high-quality experience has become increasingly complex.
 To address these challenges, My team and I proactively applied Root Cause Analysis (RCA) to uncover the underlying sources of inefficiency, implemented Lean Management principles to streamline operations and reduce waste, and leveraged Data-Driven Decision Making (DDDM) to track sales trends and performance metrics across all locations. We also embraced Continuous Improvement (Kaizen) practices to support sustainable growth and long-term operational excellence. Simultaneously, we conducted in-depth customer analysis to refine service delivery and elevate satisfaction, ensuring every customer interaction aligns with Café Harmony’s high standards.

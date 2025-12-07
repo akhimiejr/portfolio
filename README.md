@@ -109,6 +109,29 @@ The report demonstrates effective use of Power BI’s online data connectivity f
 
 <img width="1417" height="829" alt="Screenshot 2025-12-07 173211" src="https://github.com/user-attachments/assets/275ad198-30c6-475f-9689-35dc7166a9ee" />
 
+### Project 3: [PURE SIP'S BEVERSGES](https://github.com/akhimiejr/PureSip-Beverages)
+PureSip Beverages is a growing beverage distribution company supplying popular brands such as Coke, Fanta, Sprite, and other leading soft drinks to major retailers including Costco, Walgreens, Target, and Walmart. As the organisation expanded, sales reporting became increasingly fragmented due to reliance on separate spreadsheets managed by regional managers. To address challenges related to data consolidation, reporting accuracy, and analytical capability, PureSip implemented a Power BI solution using a centralised folder connection and automated refresh, enabling real-time visibility of performance across all locations.
+Key Contributions
+
+## 1. Centralised Data Management
+PureSip Beverages implemented a robust shared folder structure accessible to all relevant stakeholders within the organisation. This centralised repository serves as the single source of truth for all regional sales data, replacing fragmented spreadsheets managed individually by regional managers. By consolidating all sales files into a unified, organised structure, the company eliminated duplication of effort, simplified data governance, and ensured that all teams work from consistent, up-to-date information.
+
+## 2. Automated Data Refresh and Integration
+Leveraging Power BI’s folder connection capability, the company automated the detection and integration of new sales spreadsheets as soon as they are uploaded to the shared folder. This automation removes the need for manual data consolidation, significantly reducing the time and effort required to prepare reports. The continuous, real-time data refresh ensures that decision-makers always have access to the most current information, enabling timely responses to market trends and sales opportunities.
+
+## 3. Enhanced Data Accuracy and Consistency
+By standardising the data collection process and automating integration, PureSip reduced errors arising from inconsistent spreadsheet formats, manual entry mistakes, and data duplication. This approach ensures high-quality, reliable data across all retailers and regions. Consistent data improves confidence in reports, reduces the risk of misinformed decisions, and allows management to track performance trends with greater accuracy.
+
+## 4. Improved Reporting and Analytics Capability
+The transition from static spreadsheets to Power BI enabled advanced reporting and analytical capabilities that were previously unattainable. The company can now leverage interactive dashboards, trend analysis, geographic visualisation, and performance comparisons across regions. These capabilities provide actionable insights into sales performance, help identify growth opportunities, and support strategic decision-making with clear, data-driven evidence.
+
+## 5.Operational Efficiency and Scalability
+Automating the data integration and reporting process freed staff from repetitive manual tasks such as consolidating spreadsheets and reconciling errors. This operational efficiency allows teams to focus on higher-value activities, such as analysing trends or developing sales strategies. Furthermore, the system is designed to scale easily: as PureSip expands to additional regions or retailers, the same folder structure and Power BI connection can accommodate new data without requiring structural changes, ensuring long-term sustainability of the reporting framework.
+
+# Report
+This Report provides a comprehensive, filter-driven sales analysis for Pure Sip, incorporating slicers for Beverage Brand and Contact to allow users to tailor the view to specific product lines or customer groups. The KPI panel shows current performance against targets, with sales of £238,850, which is £11,150 below the £250,000 goal (–4.46%). Total sales amount to £1,213,018, supported by 2,309,850 units sold across four retailers. The sales trend visual illustrates month-by-month performance, rising from £82.1K in January to a peak of £116K in August, before stabilising around £115K in December. Below, regional analysis maps sales across key North American states, while brand performance charts identify Dasani Water, Coca-Cola, and Diet Coke as the leading contributors. Retailer analysis highlights Walmart as the top performer with £391.8K, followed by Costco, Walgreens, and Target. Together with the interactive slicers, the dashboard enables dynamic exploration of trends, channel contributions, and performance variations, supporting informed decision-making and targeted strategy refinement.
+
+<img width="1441" height="811" alt="Screenshot 2025-12-07 191117" src="https://github.com/user-attachments/assets/a3099448-3e7d-4234-8f03-0baf5e5b37fc" />
 
 
 ## EXCEL PROJECTS

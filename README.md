@@ -42,7 +42,7 @@ I enjoy working on data-driven projects that uncover trends, improve decision-ma
 ## Projects
 
 ## POWER BI PROJECTS
-### [Project 3: DESKIFY OFFICE SUPPLIES REPORT](https://github.com/akhimiejr/DESKIFY-OFFICE-SUPPLIES-REPORT)
+### [Project 1: DESKIFY OFFICE SUPPLIES REPORT](https://github.com/akhimiejr/DESKIFY-OFFICE-SUPPLIES-REPORT)
 Deskify Office Supply Co. is a leading retailer
 specializing in office supplies,
 technology/computer accessories, and furniture.
@@ -83,7 +83,7 @@ Customer performance analysis reveals that profitability is concentrated among a
 <img width="1271" height="785" alt="Screenshot 2025-11-28 165820" src="https://github.com/user-attachments/assets/77d72a84-ac2a-404d-9a7d-23a12878133e" />
 
 ## EXCEL PROJECTS
-### [Project 2: CAFE-HARMONY-PROJECT](https://github.com/akhimiejr/CAFE-HARMONY-PROJECT-)
+### [Project 1: CAFE-HARMONY-PROJECT](https://github.com/akhimiejr/CAFE-HARMONY-PROJECT-)
 At Café Harmony, we have been navigating a period of impressive growth, which has brought new challenges as we scale to meet increasing customer demand with multiple locations across the city, each with unique customer preferences and performance metrics, maintaining efficient operations and delivering a consistently high-quality experience has become increasingly complex.
 To address these challenges, My team and I proactively applied Root Cause Analysis (RCA) to uncover the underlying sources of inefficiency, implemented Lean Management principles to streamline operations and reduce waste, and leveraged Data-Driven Decision Making (DDDM) to track sales trends and performance metrics across all locations. We also embraced Continuous Improvement (Kaizen) practices to support sustainable growth and long-term operational excellence. Simultaneously, we conducted in-depth customer analysis to refine service delivery and elevate satisfaction, ensuring every customer interaction aligns with Café Harmony’s high standards.
 Through these initiatives, we are focused on optimizing resource management, enhancing staff performance, and strengthening service strategies creating a foundation for sustainable growth while continuing to provide the exceptional experience that our customers have come to expect
@@ -129,7 +129,7 @@ The Cafe Harmony Sales & Performance Dashboard provides a comprehensive insight 
 
 
 ## PYTHON PROJECTS
-### [Project 3: CRIME ANALYSIS REPORT](https://akhimiejr.github.io/CRIME-ANALYSIS-REPORT-FROM/)
+### [Project 1: CRIME ANALYSIS REPORT](https://akhimiejr.github.io/CRIME-ANALYSIS-REPORT-FROM/)
 
 The project analyzes various crime types, such as violent and non-violent crimes, to understand their frequency, affected demographics, times of occurrence, and geographical distribution. Using Python, Jupyter Notebook, and libraries like pandas, matplotlib, seaborn, scikit-learn, and plotly, the analysis employs machine learning models Logistic Regression, Decision Trees, and Random Forest to predict crime likelihood and identify key contributing factors. The practical applications are significant, enabling financial institutions to prevent crime and allowing the LAPD to optimize patrols based on crime patterns. The study also integrates current crime detection and prevention methodologies, such as statistical analysis, GIS for spatial insights, and real-time alert systems, aiming to enhance public safety and resource efficiency.
 ##  Key Contributions
@@ -160,7 +160,7 @@ Time series analysis
 
 Decision Trees
 
-### [Project 4: Credit Card Fraud Detection](https://akhimiejr.github.io/Credit-Card-Fraud-Detection-/)
+### [Project 2: Credit Card Fraud Detection](https://akhimiejr.github.io/Credit-Card-Fraud-Detection-/)
 
 Fraud is a pervasive issue that affects businesses across various industries, leading to 
 significant financial losses and reputational damage. With the advent of digital transactions 
@@ -222,7 +222,7 @@ Imploring a bar graph to assist in buttressing the insight of our analysis, we c
 aged male customer are the most defrauded within our customer base followed by elderly 
 women and young women. Teenage male customers also tend to fall victim as well.
 
-### [Project 5: Predictive Analysis of Neurological Disorder Susceptibility Pattern for Urban Elderly Population](https://github.com/akhimiejr/PREDICTIVE-ANALYSIS-DEMENTIA-)
+### [Project 3: Predictive Analysis of Neurological Disorder Susceptibility Pattern for Urban Elderly Population](https://github.com/akhimiejr/PREDICTIVE-ANALYSIS-DEMENTIA-)
 
 This study investigates dementia susceptibility among urban elderly populations, a group particularly vulnerable due to socio-environmental factors like stress, pollution, and lifestyle. Recognizing limitations in existing research—such as data diversity, model generalizability, and clinical integration—the study employs advanced machine learning techniques such as logistic regression and neural networks to improve early detection and prediction accuracy. The research combines a literature review with analysis of demographic and health data from urban healthcare centers to identify key dementia risk factors.
 ## Project Aim and Objectives

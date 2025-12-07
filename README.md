@@ -83,6 +83,22 @@ Customer performance analysis reveals that profitability is concentrated among a
 <img width="1271" height="785" alt="Screenshot 2025-11-28 165820" src="https://github.com/user-attachments/assets/77d72a84-ac2a-404d-9a7d-23a12878133e" />
 
 ### [Project 2: GLOBAL INSIGHT ANALYTICS](https://github.com/akhimiejr/GLOBAL-INSIGHT-ANALYTICS)
+This report presents a comprehensive global demographic analysis, illustrating how the world population has evolved over time, how it is geographically distributed today, and how it is segmented by major religious affiliations. The structure of the report allows the reader to develop an understanding of long-term trends, present-day population concentration, and underlying cultural composition. Power BI has been used to extract data directly from online sources, enabling automation, periodic refresh, and continuous accuracy as global data updates. The design and analytical flow position the report as both a reference tool and a dashboard for ongoing monitoring.
+# Key Contributions
+1. Sourced and Extracted Live Global Demographic Data
+Identified reliable online data repositories, including global population and demographic databases, and successfully connected Power BI to these sources using the Web Connector to automate data import and retrieval.
+
+2. Cleaned, Transformed, and Standardised Raw Data for Accuracy
+Used Power Query to remove duplicates, correct formatting inconsistencies, apply uniform data types, and merge fragmented datasets, ensuring all values were reliable, analysable, and aligned across time periods and categories.
+
+3. Developed a Robust Analytical Data Model and Calculation Framework
+Designed relationships between country-level, regional, and category-based demographic tables and built DAX measures to calculate totals, percentages, projections, and comparative metrics essential for meaningful insight.
+
+4. Designed Clear, Insight-Driven Visualisations and Layout Structure
+Applied best practices in data visualisation to build maps, trend charts, and comparative analysis visuals that clearly communicated historical growth patterns, regional distribution, and cultural population characteristics.
+
+5. Implemented Scheduled Refresh and Insight Interpretation for Decision Support
+Enabled automated updates through Power BI Service so the dashboard reflects the latest available data over time, and provided narrative insight and interpretation, transforming raw data into a meaningful analytical tool for ongoing use.
 
 ## EXCEL PROJECTS
 ### [Project 1: CAFE-HARMONY-PROJECT](https://github.com/akhimiejr/CAFE-HARMONY-PROJECT-)

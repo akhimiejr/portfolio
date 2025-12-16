@@ -101,6 +101,30 @@ Configured Row-Level Security (RLS) roles to restrict data visibility by territo
 
 ## 5. Report Deployment and Stakeholder Enablement
 Published the report to the Power BI Service, created a dedicated workspace and app for controlled sharing, and structured the dashboard for usability, ensuring stakeholders could easily access, interact with, and act on the insights provided.
+# Reports
+The Tri-Fleet Industries Analytics dashboard provides a comprehensive, data-driven overview of sales performance across products, customers, locations, and time, enabling stakeholders to assess overall business health, identify key revenue drivers, and uncover risks and opportunities through high-level KPIs and interactive analysis. With total sales of $10.03M from 99,067 units sold, the business demonstrates strong demand and commercial performance, although further margin analysis is required to fully assess profitability efficiency. Sales are heavily driven by Classic Cars, which significantly outperform other product lines, indicating both a core strength and a concentration risk, while weaker categories such as Trains may require repositioning or strategic review. Revenue concentration is also evident among top customers, particularly Euro Shopping Channel and Mini Gifts Distributors, highlighting the importance of customer diversification to reduce reliance on a small number of key accounts. Geographically, sales are concentrated in North America and Europe, with limited presence in emerging markets, presenting opportunities for expansion subject to logistical and regulatory considerations. Sales trends reveal clear seasonality, with pronounced peaks and troughs suggesting opportunities for improved forecasting, inventory planning, and targeted marketing. Overall, while Tri-Fleet Industries demonstrates strong sales performance, addressing product, customer, and regional concentration alongside seasonal volatility will be critical to achieving sustainable long-term growth.
+
+<img width="1306" height="751" alt="Screenshot 2025-12-16 110611" src="https://github.com/user-attachments/assets/59d6aa95-9c0a-4976-993f-54f6d045ed7c" />
+
+# Row-Level Security
+
+# APAC MANAGER
+
+<img width="1743" height="642" alt="Screenshot 2025-12-16 120336" src="https://github.com/user-attachments/assets/50258e30-03ad-4420-a9ba-4c010fae2954" />
+
+# EMEA MANAGER
+
+<img width="1743" height="630" alt="Screenshot 2025-12-16 120402" src="https://github.com/user-attachments/assets/52898bca-03b8-4de0-bb84-2e66fe852666" />
+
+# JAPAN MANAGER
+
+<img width="1742" height="634" alt="Screenshot 2025-12-16 120641" src="https://github.com/user-attachments/assets/c5b50ba0-0a9d-4e68-9291-3b664f63f60d" />
+
+
+# NORTH AMERICA MANAGER
+
+<img width="1728" height="642" alt="Screenshot 2025-12-16 120706" src="https://github.com/user-attachments/assets/37323faf-b013-46d8-b1f1-95c8fa452933" />
+
 
 ### [Project 3: GLOBAL INSIGHT ANALYTICS](https://github.com/akhimiejr/GLOBAL-INSIGHT-ANALYTICS)
 This report presents a comprehensive global demographic analysis, illustrating how the world population has evolved over time, how it is geographically distributed today, and how it is segmented by major religious affiliations. The structure of the report allows the reader to develop an understanding of long-term trends, present-day population concentration, and underlying cultural composition. Power BI has been used to extract data directly from online sources, enabling automation, periodic refresh, and continuous accuracy as global data updates. The design and analytical flow position the report as both a reference tool and a dashboard for ongoing monitoring.
@@ -129,7 +153,7 @@ The report demonstrates effective use of Power BI’s online data connectivity f
 
 <img width="1417" height="829" alt="Screenshot 2025-12-07 173211" src="https://github.com/user-attachments/assets/275ad198-30c6-475f-9689-35dc7166a9ee" />
 
-### Project 4: [PURE SIP'S BEVERSGES](https://github.com/akhimiejr/PureSip-Beverages)
+### [Project 4:PURE SIP'S BEVERSGES](https://github.com/akhimiejr/PureSip-Beverages)
 PureSip Beverages is a growing beverage distribution company supplying popular brands such as Coke, Fanta, Sprite, and other leading soft drinks to major retailers including Costco, Walgreens, Target, and Walmart. As the organisation expanded, sales reporting became increasingly fragmented due to reliance on separate spreadsheets managed by regional managers. To address challenges related to data consolidation, reporting accuracy, and analytical capability, PureSip implemented a Power BI solution using a centralised folder connection and automated refresh, enabling real-time visibility of performance across all locations.
 Key Contributions
 

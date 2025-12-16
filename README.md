@@ -82,7 +82,7 @@ Customer performance analysis reveals that profitability is concentrated among a
 
 <img width="1271" height="785" alt="Screenshot 2025-11-28 165820" src="https://github.com/user-attachments/assets/77d72a84-ac2a-404d-9a7d-23a12878133e" />
 
-### [Project 2: Tri-Fleet Industries Analytics](https://github.com/akhimiejr/Tri-Fleet-Industries-)
+### [Project 2: TRI-FLEET INDUSTRIES ANALYTICS](https://github.com/akhimiejr/Tri-Fleet-Industries-)
 
 
 ### [Project 3: GLOBAL INSIGHT ANALYTICS](https://github.com/akhimiejr/GLOBAL-INSIGHT-ANALYTICS)

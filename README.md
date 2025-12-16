@@ -82,7 +82,10 @@ Customer performance analysis reveals that profitability is concentrated among a
 
 <img width="1271" height="785" alt="Screenshot 2025-11-28 165820" src="https://github.com/user-attachments/assets/77d72a84-ac2a-404d-9a7d-23a12878133e" />
 
-### [Project 2: GLOBAL INSIGHT ANALYTICS](https://github.com/akhimiejr/GLOBAL-INSIGHT-ANALYTICS)
+### [Project 2: Tri-Fleet Industries Analytics](https://github.com/akhimiejr/Tri-Fleet-Industries-)
+
+
+### [Project 3: GLOBAL INSIGHT ANALYTICS](https://github.com/akhimiejr/GLOBAL-INSIGHT-ANALYTICS)
 This report presents a comprehensive global demographic analysis, illustrating how the world population has evolved over time, how it is geographically distributed today, and how it is segmented by major religious affiliations. The structure of the report allows the reader to develop an understanding of long-term trends, present-day population concentration, and underlying cultural composition. Power BI has been used to extract data directly from online sources, enabling automation, periodic refresh, and continuous accuracy as global data updates. The design and analytical flow position the report as both a reference tool and a dashboard for ongoing monitoring.
 # Key Contributions
 ## 1. Sourced and Extracted Live Global Demographic Data
@@ -109,7 +112,7 @@ The report demonstrates effective use of Power BI’s online data connectivity f
 
 <img width="1417" height="829" alt="Screenshot 2025-12-07 173211" src="https://github.com/user-attachments/assets/275ad198-30c6-475f-9689-35dc7166a9ee" />
 
-### Project 3: [PURE SIP'S BEVERSGES](https://github.com/akhimiejr/PureSip-Beverages)
+### Project 4: [PURE SIP'S BEVERSGES](https://github.com/akhimiejr/PureSip-Beverages)
 PureSip Beverages is a growing beverage distribution company supplying popular brands such as Coke, Fanta, Sprite, and other leading soft drinks to major retailers including Costco, Walgreens, Target, and Walmart. As the organisation expanded, sales reporting became increasingly fragmented due to reliance on separate spreadsheets managed by regional managers. To address challenges related to data consolidation, reporting accuracy, and analytical capability, PureSip implemented a Power BI solution using a centralised folder connection and automated refresh, enabling real-time visibility of performance across all locations.
 Key Contributions
 

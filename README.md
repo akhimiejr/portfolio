@@ -84,6 +84,23 @@ Customer performance analysis reveals that profitability is concentrated among a
 
 ### [Project 2: TRI-FLEET INDUSTRIES ANALYTICS](https://github.com/akhimiejr/Tri-Fleet-Industries-)
 
+Tri-Fleet Industries is a specialised global retailer focused on vintage and classic vehicles, including cars, trucks, buses, trains, motorcycles, ships, and other collectible transport assets. The company serves a broad, high-value clientele across international markets, offering a distinctive portfolio of rare and sought-after vehicles. Through its diverse product range and worldwide reach, Tri-Fleet Industries operates within a niche market that combines heritage value with premium retail demand, positioning the business as a key provider of specialist and collectible vehicles globally.
+# Key Contributions
+
+## 1. Development of an End-to-End Analytics Dashboard
+Designed and delivered a comprehensive Power BI dashboard that consolidates sales performance across products, customers, geographies, and time, enabling stakeholders to gain a clear, single-source view of business performance.
+
+## 2. Product and Customer Performance Analysis
+Analysed product categories and customer sales patterns to identify key revenue drivers, concentration risks, and underperforming segments, providing insights to support product portfolio optimisation and customer diversification strategies.
+
+## 3. Identification of Geographic and Seasonal Trends
+Evaluated sales distribution by country and analysed time-based trends to uncover regional performance gaps and seasonal fluctuations, supporting more accurate forecasting, market expansion planning, and inventory alignment.
+
+## 4. Implementation of Data Security and Governance
+Configured Row-Level Security (RLS) roles to restrict data visibility by territory, ensuring secure, role-appropriate access to sensitive sales data and aligning the solution with data governance best practices.
+
+## 5. Report Deployment and Stakeholder Enablement
+Published the report to the Power BI Service, created a dedicated workspace and app for controlled sharing, and structured the dashboard for usability, ensuring stakeholders could easily access, interact with, and act on the insights provided.
 
 ### [Project 3: GLOBAL INSIGHT ANALYTICS](https://github.com/akhimiejr/GLOBAL-INSIGHT-ANALYTICS)
 This report presents a comprehensive global demographic analysis, illustrating how the world population has evolved over time, how it is geographically distributed today, and how it is segmented by major religious affiliations. The structure of the report allows the reader to develop an understanding of long-term trends, present-day population concentration, and underlying cultural composition. Power BI has been used to extract data directly from online sources, enabling automation, periodic refresh, and continuous accuracy as global data updates. The design and analytical flow position the report as both a reference tool and a dashboard for ongoing monitoring.

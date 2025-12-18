@@ -22,23 +22,24 @@ I am a **Data Analyst** with a strong foundation in mathematics and passion for 
 ### 🏢 Data Analyst  
 **Amdari-London, United Kingdom**
 *Jan 2025 - Present*
-• Spearheaded the development of a KPI dashboard using Power BI
+
+- Spearheaded the development of a KPI dashboard using Power BI
 that enhanced decision making, reducing data reporting turnaround
 time by 45% and enabling leadership to make faster, more informed
 business decisions.
-• Conducted sales and customer analytics using Tableau, which led to
+- Conducted sales and customer analytics using Tableau, which led to
 identifying high value customer segments, increasing conversion
 rates by 30% through targeted marketing strategies.
-• Automated weekly and monthly reporting workflows using SQL, and
+- Automated weekly and monthly reporting workflows using SQL, and
 Power BI, cutting down manual reporting efforts by 50% and ensuring
 real-time data accessibility.
-• Led a data quality initiative that cleaned and standardized over 1
+- Led a data quality initiative that cleaned and standardized over 1
 million records, improving data accuracy by 95% and enhancing the
 reliability of business reports.
-• Developed predictive models to analyze customer churn trends,
+- Developed predictive models to analyze customer churn trends,
 resulting in a 25% reduction in customer attrition by implementing
 proactive engagement strategies.
-• Partnered with cross-functional teams including marketing and
+- Partnered with cross-functional teams including marketing and
 finance teams to translate business needs into data-driven
 solutions, supporting strategic initiatives with clear, actionable
 insights.

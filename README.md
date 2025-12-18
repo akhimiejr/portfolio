@@ -21,6 +21,7 @@ I am a **Data Analyst** with a strong foundation in mathematics and passion for 
 
 ### 🏢 Data Analyst  
 **Amdari-London, United Kingdom**
+
 *Jan 2025 - Present*
 
 - Spearheaded the development of a KPI dashboard using Power BI

@@ -98,11 +98,15 @@ The data model represents a well-structured star schema centered on a single fac
 
 
 
-<img width="100%" height="645" alt="Screenshot 2025-12-05 212722" src="https://github.com/user-attachments/assets/25f41cea-6431-4b3d-86ee-375af66ea137" />
+<img width="100%" height="100%" alt="Screenshot 2025-12-05 212722" src="https://github.com/user-attachments/assets/25f41cea-6431-4b3d-86ee-375af66ea137" />
 
 
 
 <img src="https://github.com/user-attachments/assets/25f41cea-6431-4b3d-86ee-375af66ea137" width="100%" alt="Sales Performance Dashboard Screenshot" />
+
+
+<img src="https://github.com/user-attachments/assets/25f41cea-6431-4b3d-86ee-375af66ea137" width="100%" alt="Sales Performance Dashboard Screenshot" />
+
 
 # Dashboard Reporting
 ## Product Performance Analysis

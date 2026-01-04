@@ -110,7 +110,7 @@ Deskify’s product performance shows strong revenue contribution from certain c
 Customer performance analysis reveals that profitability is concentrated among a small subset of high-value buyers, such as Emily Phan (34.01K), Deborah Brumfield (31.12K), and Grant Carroll (27.98K), introducing churn vulnerability if these customers reduce or discontinue purchases. Segment-level insights show the Corporate segment contributes the highest share of profit at 527.1K, while Home Office, Consumer, and Small Business segments collectively represent a significant portion, confirming that Deskify operates in both B2B and B2C markets. Geographic performance is similarly uneven, with the Northwest region generating the highest profit at 569,398, while regions such as Yukon and Quebec remain significantly underdeveloped. These patterns signal growth opportunities through targeted marketing, regional penetration strategies, and customer loyalty initiatives. Enhancing segmentation tactics, reducing reliance on top contributors, and activating underperforming markets could diversify revenue streams and strengthen customer-driven profitability over time.
 
 
-<img width="1271" height="785" alt="Screenshot 2025-11-28 165820" src="https://github.com/user-attachments/assets/77d72a84-ac2a-404d-9a7d-23a12878133e" />
+<img src="https://github.com/user-attachments/assets/77d72a84-ac2a-404d-9a7d-23a12878133e" width="100%" alt="Screenshot 2025-11-28 165820"  />
 
 ### [Project 2: TRI-FLEET INDUSTRIES ANALYTICS](https://github.com/akhimiejr/Tri-Fleet-Industries-)
 
@@ -134,26 +134,26 @@ Published the report to the Power BI Service, created a dedicated workspace and 
 # Dashboards Reporting
 The Tri-Fleet Industries Analytics dashboard provides a comprehensive, data-driven overview of sales performance across products, customers, locations, and time, enabling stakeholders to assess overall business health, identify key revenue drivers, and uncover risks and opportunities through high-level KPIs and interactive analysis. With total sales of $10.03M from 99,067 units sold, the business demonstrates strong demand and commercial performance, although further margin analysis is required to fully assess profitability efficiency. Sales are heavily driven by Classic Cars, which significantly outperform other product lines, indicating both a core strength and a concentration risk, while weaker categories such as Trains may require repositioning or strategic review. Revenue concentration is also evident among top customers, particularly Euro Shopping Channel and Mini Gifts Distributors, highlighting the importance of customer diversification to reduce reliance on a small number of key accounts. Geographically, sales are concentrated in North America and Europe, with limited presence in emerging markets, presenting opportunities for expansion subject to logistical and regulatory considerations. Sales trends reveal clear seasonality, with pronounced peaks and troughs suggesting opportunities for improved forecasting, inventory planning, and targeted marketing. Overall, while Tri-Fleet Industries demonstrates strong sales performance, addressing product, customer, and regional concentration alongside seasonal volatility will be critical to achieving sustainable long-term growth.
 
-<img width="1306" height="751" alt="Screenshot 2025-12-16 110611" src="https://github.com/user-attachments/assets/59d6aa95-9c0a-4976-993f-54f6d045ed7c" />
+<img  src="https://github.com/user-attachments/assets/59d6aa95-9c0a-4976-993f-54f6d045ed7c" width="100%" alt="Screenshot 2025-12-16 110611" />
 
 # Row-Level Security
 
 # APAC MANAGER
 
-<img width="1743" height="642" alt="Screenshot 2025-12-16 120336" src="https://github.com/user-attachments/assets/50258e30-03ad-4420-a9ba-4c010fae2954" />
+<img src="https://github.com/user-attachments/assets/50258e30-03ad-4420-a9ba-4c010fae2954"  width="100%" alt="Screenshot 2025-12-16 120336" />
 
 # EMEA MANAGER
 
-<img width="1743" height="630" alt="Screenshot 2025-12-16 120402" src="https://github.com/user-attachments/assets/52898bca-03b8-4de0-bb84-2e66fe852666" />
+<img src="https://github.com/user-attachments/assets/52898bca-03b8-4de0-bb84-2e66fe852666" width="100%" alt="Screenshot 2025-12-16 120402" />
 
 # JAPAN MANAGER
 
-<img width="1742" height="634" alt="Screenshot 2025-12-16 120641" src="https://github.com/user-attachments/assets/c5b50ba0-0a9d-4e68-9291-3b664f63f60d" />
+<img src="https://github.com/user-attachments/assets/c5b50ba0-0a9d-4e68-9291-3b664f63f60d"  width="100%" alt="Screenshot 2025-12-16 120641"  />
 
 
 # NORTH AMERICA MANAGER
 
-<img width="1728" height="642" alt="Screenshot 2025-12-16 120706" src="https://github.com/user-attachments/assets/37323faf-b013-46d8-b1f1-95c8fa452933" />
+<img src="https://github.com/user-attachments/assets/37323faf-b013-46d8-b1f1-95c8fa452933" width="100%" alt="Screenshot 2025-12-16 120706" />
 
 
 ### [Project 3: GLOBAL INSIGHT ANALYTICS](https://github.com/akhimiejr/GLOBAL-INSIGHT-ANALYTICS)
@@ -176,16 +176,17 @@ Enabled automated updates through Power BI Service so the dashboard reflects the
 # Web Page
 https://www.worldometers.info/world-population/
 
-<img width="1113" height="911" alt="Screenshot 2025-12-07 180038" src="https://github.com/user-attachments/assets/c6a86232-3e3b-4ca8-a2ec-0479f1bd62d7" />
+<img src="https://github.com/user-attachments/assets/c6a86232-3e3b-4ca8-a2ec-0479f1bd62d7" width="100%" alt="Screenshot 2025-12-07 180038" />
 
 # Dashboard Reporting
 The report demonstrates effective use of Power BI’s online data connectivity features. Online data sources could have been accessed through the Web connector in Power Query, enabling extraction from APIs, publicly available data portals, or structured web tables such as the World Bank datasets, United Nations population tables, or Pew Research data. Transformations would have included filtering, normalising values, and establishing data types suitable for calculations and modelling. Data relationships would then be maintained in a structured model, potentially using a star schema for clarity and efficiency. Measures and aggregations were likely written using DAX to compute totals, percentages, and growth indicators. Once published to Power BI Service, scheduled refresh functionality ensures that the report updates automatically in alignment with new data releases. The report is visually clear and logically structured. It progresses from historical context through present-day geographic distribution and finally into cultural demographic segmentation. The colour consistency, geographic mapping, clean labelling, and strong visual hierarchy contribute to professionalism and readability. The report format is scalable and capable of supporting additional views such as forecast projections, age structure analysis, or socio-economic overlays.
 
-<img width="1417" height="829" alt="Screenshot 2025-12-07 173211" src="https://github.com/user-attachments/assets/275ad198-30c6-475f-9689-35dc7166a9ee" />
+<img src="https://github.com/user-attachments/assets/275ad198-30c6-475f-9689-35dc7166a9ee"  width="100%" alt="Screenshot 2025-12-07 173211"  />
 
 ### [Project 4:PURE SIP'S BEVERSGES](https://github.com/akhimiejr/PureSip-Beverages)
 PureSip Beverages is a growing beverage distribution company supplying popular brands such as Coke, Fanta, Sprite, and other leading soft drinks to major retailers including Costco, Walgreens, Target, and Walmart. As the organisation expanded, sales reporting became increasingly fragmented due to reliance on separate spreadsheets managed by regional managers. To address challenges related to data consolidation, reporting accuracy, and analytical capability, PureSip implemented a Power BI solution using a centralised folder connection and automated refresh, enabling real-time visibility of performance across all locations.
-Key Contributions
+
+# Key Contributions
 
 ## 1. Centralised Data Management
 PureSip Beverages implemented a robust shared folder structure accessible to all relevant stakeholders within the organisation. This centralised repository serves as the single source of truth for all regional sales data, replacing fragmented spreadsheets managed individually by regional managers. By consolidating all sales files into a unified, organised structure, the company eliminated duplication of effort, simplified data governance, and ensured that all teams work from consistent, up-to-date information.
@@ -205,7 +206,7 @@ Automating the data integration and reporting process freed staff from repetitiv
 # Dashboard Reporting
 This Report provides a comprehensive, filter-driven sales analysis for Pure Sip, incorporating slicers for Beverage Brand and Contact to allow users to tailor the view to specific product lines or customer groups. The KPI panel shows current performance against targets, with sales of £238,850, which is £11,150 below the £250,000 goal (–4.46%). Total sales amount to £1,213,018, supported by 2,309,850 units sold across four retailers. The sales trend visual illustrates month-by-month performance, rising from £82.1K in January to a peak of £116K in August, before stabilising around £115K in December. Below, regional analysis maps sales across key North American states, while brand performance charts identify Dasani Water, Coca-Cola, and Diet Coke as the leading contributors. Retailer analysis highlights Walmart as the top performer with £391.8K, followed by Costco, Walgreens, and Target. Together with the interactive slicers, the dashboard enables dynamic exploration of trends, channel contributions, and performance variations, supporting informed decision-making and targeted strategy refinement.
 
-<img width="1441" height="811" alt="Screenshot 2025-12-07 191117" src="https://github.com/user-attachments/assets/a3099448-3e7d-4234-8f03-0baf5e5b37fc" />
+<img  src="https://github.com/user-attachments/assets/a3099448-3e7d-4234-8f03-0baf5e5b37fc" width="1OO%" alt="Screenshot 2025-12-07 191117" />
 
 
 ## EXCEL PROJECTS
@@ -242,13 +243,16 @@ I evaluated staff performance by correlating individual sales data with location
 
 Customer demographics and satisfaction data were analysed to uncover trends driving the highest sales and overall satisfaction. These insights informed service enhancements, personalised offers, and engagement strategies, ensuring a consistently exceptional customer experience.
 # Pivot Table Analysis
-<img width="1905" height="650" alt="Screenshot 2025-11-30 100745" src="https://github.com/user-attachments/assets/f04d8815-54a5-4340-bf9c-7026881abbc3" />
+
+<img src="https://github.com/user-attachments/assets/f04d8815-54a5-4340-bf9c-7026881abbc3" width="100%" alt="Screenshot 2025-11-30 100745" />
+
+
 The image Above displays an Excel workbook transformed into a compact analytics dashboard using PivotTables, summary statistics, and visual charts to provide a comprehensive, data-driven overview of key business performance metrics for café Harmony
 
 # Dashboard
 
 
-<img width="1482" height="503" alt="Screenshot 2025-11-23 130931" src="https://github.com/user-attachments/assets/8b52bb36-94ab-4c3c-a26c-14ae7d285903" />
+<img src="https://github.com/user-attachments/assets/8b52bb36-94ab-4c3c-a26c-14ae7d285903"  width="100%" alt="Screenshot 2025-11-23 130931" />
 
 
 The Cafe Harmony Sales & Performance Dashboard provides a comprehensive insight of the café’s overall business health, showing total sales of £12,589.95 generated from 1003 customers, with 10 main stock items tracked and an average customer rating of 3.05. Monthly sales trends reveal fluctuations throughout the year, peaking in May and dipping in March, while demographic data shows a nearly even distribution across young adults, adults, and elderly customers. Product performance highlights Muffins, Latte, and Iced Tea as top revenue generators, whereas items like Cappuccino and Sandwiches perform less strongly. Stock movement indicates high usage of milk, croissant dough, and iced tea bags, contrasted with increases in sugar and coffee beans. Staff performance displays notable variation, with high achievers like Megan White outperforming others. Rating analysis reveals a predominance of 4- and 5-star reviews despite the moderate overall average. Together, these insights show strong product engagement, steady customer traffic, opportunities for inventory optimization, and areas for staff development and service improvement.

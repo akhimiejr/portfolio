@@ -102,6 +102,8 @@ The data model represents a well-structured star schema centered on a single fac
 
 
 
+<img src="https://github.com/user-attachments/assets/25f41cea-6431-4b3d-86ee-375af66ea137" width="100%" alt="Sales Performance Dashboard Screenshot" />
+
 # Dashboard Reporting
 ## Product Performance Analysis
 Deskify’s product performance shows strong revenue contribution from certain categories, with Furniture generating the majority of total profit at 985.36K (64.73%), followed by Office Supplies at 331.03K and Technology at 205.95K. Subcategory insight reveals key performers such as binders, paper, and furnishings, while the copier category operates at a loss of -16K, suggesting pricing issues, warranty expense, or high logistics overhead. Top individual products—including Eldon ClusterMat and Panasonic models—highlight a dependency on a small set of profitable SKUs, creating product concentration risk. Operational data further indicates significant shipping cost pressure due to reliance on air freight (nearly 90% of orders), which likely diminishes margins and limits scale efficiency. Seasonal fluctuations in profitability also suggest the need for improved forecasting, inventory planning, and promotional timing. Overall, strengthening the product portfolio through cost optimization, renegotiated vendor terms, improved shipping strategy, and a focus on high-margin categories represents a key opportunity to unlock higher profitability.

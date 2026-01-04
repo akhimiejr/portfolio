@@ -96,7 +96,11 @@ Beyond visual insights, I evaluated the underlying Power BI data model, confirmi
 # Data Modelling 
 The data model represents a well-structured star schema centered on a single fact table, TransactionFact, which stores operational data such as revenue, profit, quantity, order dates, product IDs, and customer IDs. This fact table connects to multiple supporting dimension tables, including CustomerDim, ProductDim, OrderDim, LocationDim, and CalendarDim, each providing descriptive attributes for filtering, categorization, and analysis. All relationships are appropriately configured as one-to-many from dimensions to the fact table with single-direction filtering, which aligns with best practices for analytical reporting and avoids ambiguity. A separate "Calculated Measures" table is included, demonstrating strong governance by centralizing DAX calculations for maintainability. Overall, the model is clean, scalable, and optimized for Power BI reporting, though future refinements such as hierarchies, surrogate keys, and extended cost structures could further enhance analytical depth and long-term scalability.
 
+
+
 <img width="1388" height="645" alt="Screenshot 2025-12-05 212722" src="https://github.com/user-attachments/assets/25f41cea-6431-4b3d-86ee-375af66ea137" />
+
+
 
 # Dashboard Reporting
 ## Product Performance Analysis

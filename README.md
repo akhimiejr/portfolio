@@ -207,7 +207,7 @@ Automating the data integration and reporting process freed staff from repetitiv
 This Report provides a comprehensive, filter-driven sales analysis for Pure Sip, incorporating slicers for Beverage Brand and Contact to allow users to tailor the view to specific product lines or customer groups. The KPI panel shows current performance against targets, with sales of £238,850, which is £11,150 below the £250,000 goal (–4.46%). Total sales amount to £1,213,018, supported by 2,309,850 units sold across four retailers. The sales trend visual illustrates month-by-month performance, rising from £82.1K in January to a peak of £116K in August, before stabilising around £115K in December. Below, regional analysis maps sales across key North American states, while brand performance charts identify Dasani Water, Coca-Cola, and Diet Coke as the leading contributors. Retailer analysis highlights Walmart as the top performer with £391.8K, followed by Costco, Walgreens, and Target. Together with the interactive slicers, the dashboard enables dynamic exploration of trends, channel contributions, and performance variations, supporting informed decision-making and targeted strategy refinement.
 
 
-<img src="https://github.com/user-attachments/assets/950294e9-9803-4a0d-b3b7-6ab9aa1f5181"  width="100%" alt="Screenshot 2025-12-07 191117" />
+<img src="https://github.com/user-attachments/assets/950294e9-9803-4a0d-b3b7-6ab9aa1f5181" width="100%" alt="Screenshot 2025-12-07 191117" />
 
 
 ## EXCEL PROJECTS

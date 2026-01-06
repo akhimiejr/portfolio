@@ -268,13 +268,13 @@ The project analyzes various crime types, such as violent and non-violent crimes
 I designed and implemented machine learning models including Logistic Regression, Decision Trees, and Random Forest to predict the likelihood of crimes based on time, location, and demographic information. I also developed a predictive service to support law enforcement agencies in proactive crime prevention and optimized resource deployment.
 ###  Crime Variable Description  
 I analyzed a dataset of over 944,000 LAPD crime reports and documented 28 key variables, including crime types, victim demographics, weapon use, geographic data, and timestamps. This analysis was critical to understanding crime patterns and contextual factors.
-###  Data Visualization  
+###  Data Visualisation  
 Using libraries like matplotlib, seaborn and plotly, I created interactive and static visualizations to show crime trends over time, geographic concentrations, and demographic patterns. These visual tools helped uncover important insights and supported model development.
 ###  Statistical Modeling  
 I conducted **correlation analysis** to explore relationships between variables such as time, location, and victim demographics. These statistical insights informed **feature selection** and improved the interpretability and performance of the machine learning models.
 ###  Data Cleaning  
 I cleaned and preprocessed the raw crime data by handling missing values (e.g., coordinates like (0°, 0°)), fixing formatting issues, and removing inconsistencies. This ensured a clean, reliable dataset for accurate analysis and modeling.
-#  Some Virtualization
+#  Some Visualisation
 ![Screenshot 2024-05-23 113006](https://github.com/user-attachments/assets/7649b681-9448-4a18-b83d-cde628c75764)
 
 Pie chart of weapons used in crime by district in Los Angeles
@@ -320,7 +320,7 @@ gained from the analysis.
 - Compare the effectiveness and efficiency of SAS and Tableau in performing fraud 
 analytics and data visualization.
 
-## Some Virtualization
+## Some Visualisation
 <img width="386" alt="Screenshot 2025-04-21 140935" src="https://github.com/user-attachments/assets/5c63184e-34c8-472b-afcb-84c11d8b8b2e" />
 
  Box plot of age of customer by gender 
@@ -364,7 +364,7 @@ The primary aim of this research project is to develop a robust predictive Magne
 -	Create recommendations to enhance urban dementia care through early diagnosis, personalized treatment, and equitable access. Guide policymakers and healthcare providers with evidence-based strategies.
 ## Key contribution
 This Project contributes significantly to public health by developing predictive models tailored to urban elderly populations, revealing key socio-economic and environmental risk factors for dementia. These insights can inform targeted public health policies, such as reducing pollution and improving mental health services. Clinically, the study enhances early detection and personalized care through predictive analytics, improving diagnosis and treatment outcomes. It also lays the groundwork for future research into the mechanisms of urban-related dementia risk and encourages the application of similar methods to other neurological disorders. Overall, the study offers actionable insights to better understand and address dementia in urban settings.
-# Some Virtualization
+# Some Visualisation
 ![image](https://github.com/user-attachments/assets/a6aa7430-ec58-4ab5-b213-483cc32e4917)
 
 Exploratory data labelling

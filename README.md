@@ -139,6 +139,23 @@ Designed intuitive, executive-level Power BI dashboards using slicers for Produc
 
 Translated raw transactional data into actionable business insights that support inventory planning, product optimisation, and customer prioritisation. Enabled stakeholders to monitor trends over a 16-month period, identify seasonality, and align operational decisions with profitability and growth objectives.
 
+# Data Modelling 
+The data model shows a classic star schema, with the Order_Fact table at the centre capturing transactional data such as Order ID, Date, Expenses and Product. This fact table is linked via one-to-many relationships to the Customers_Dim table (containing customer attributes such as name, location and contact details) and the Product_Dim table (holding product types and unit-level production and selling costs). A dedicated Measures table is used to store calculated metrics, improving model clarity, reusability, and performance. This structure enables consistent filtering across visuals and underpins the slicers used in both dashboards.
+
+<img src="https://github.com/user-attachments/assets/56c768c0-5a4b-4be0-b7bd-e98c65b2f3ee" width="100%" alt="Screenshot 2026-01-08 143222" />
+
+# Dashboards Reporting
+## Product Performance Analysis
+The Product Analysis dashboard shifts focus to product performance while maintaining consistency in design and metrics. KPI cards summarise Total Profit (£3M), Total Orders (700), Total Expenses (£1.97M) and Number of Products (6), alongside order contribution metrics. A combined area and line chart tracks monthly total profit and quantity sold, revealing seasonal patterns and peak performance periods. Product-level bar charts compare expenses versus profit by product, highlighting cost efficiency and margin differences between cookie types. Additional visuals show quantity sold by product and rank products by total volume, making it easy to identify best-selling and underperforming items. A Name slicer allows users to filter the dashboard by customer, ensuring seamless cross-analysis between customer and product perspectives.
+
+<img src="https://github.com/user-attachments/assets/f77a5c4b-0a56-4096-a0c9-cd101e039837" width="100%" alt="Screenshot 2026-01-08 143517"/>
+
+## Customer Performance Analysis
+The Customer Analysis dashboard focuses on customer-level performance. KPI cards at the top summarise headline metrics, including Total Profit (£3M), Total Orders (700), Total Customers (5) and Total Expenses (£1.97M). Gauge visuals provide immediate context by comparing Customer Profit against a target and showing Total Quantity Sold (1,125,824 units) against an upper benchmark. A geographical map visual displays customer profit by state, highlighting regional concentration and performance differences across the United States. Below, bar charts break down total expenses versus profit by customer, clearly illustrating margin performance for each customer, while additional visuals show quantity sold by customer name and number of orders per customer, allowing easy identification of high-volume and high-frequency buyers. A Product slicer enables users to dynamically filter all visuals to analyse customer behaviour for specific products.
+
+<img src="https://github.com/user-attachments/assets/faf26447-5613-4d86-b68b-4a7e0090f4d6" width="100%" alt="Screenshot 2026-01-08 143448" />
+
+
 ### [Project 3: TRI-FLEET INDUSTRIES ANALYTICS](https://github.com/akhimiejr/Tri-Fleet-Industries-)
 
 Tri-Fleet Industries is a specialised global retailer focused on vintage and classic vehicles, including cars, trucks, buses, trains, motorcycles, ships, and other collectible transport assets. The company serves a broad, high-value clientele across international markets, offering a distinctive portfolio of rare and sought-after vehicles. Through its diverse product range and worldwide reach, Tri-Fleet Industries operates within a niche market that combines heritage value with premium retail demand, positioning the business as a key provider of specialist and collectible vehicles globally.

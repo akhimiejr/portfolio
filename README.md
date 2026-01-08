@@ -113,20 +113,33 @@ Customer performance analysis reveals that profitability is concentrated among a
 <img src="https://github.com/user-attachments/assets/77d72a84-ac2a-404d-9a7d-23a12878133e" width="100%" alt="Screenshot 2025-11-28 165820"  />
 
 ### [Project 2: DREAMY BITES SALES ANALYSIS](https://github.com/akhimiejr/Dreamy-Bites)
-Dreamy Bites is a premium cookie brand
-specializing in a variety of delectable treats,
-including chocolate chip, oatmeal raisin,
-and other gourmet cookies. The company
+Dreamy Bites is a premium cookie brand specializing in a variety of delectable treats, including chocolate chip, oatmeal raisin,and other gourmet cookies. The company has earned a reputation for delivering top-notch products to retailers and customers worldwide. As the business grows, analyzing sales trends, customer behavior, and product performance has become critical for strategic decision-making.
+# Key Contributions
+## 1. Multi-Source Data Integration and Modelling
 
-has earned a reputation for delivering top-
-notch products to retailers and customers
+Successfully consolidated fragmented business data from PDF, CSV, and Google Sheets into a single, structured Power BI data model. Designed a star schema with a central Orders fact table and supporting Customer and Product dimension tables, ensuring clean relationships, referential integrity, and scalable analytics.
 
-worldwide. As the business grows, analyzing
-sales trends, customer behavior, and
-product performance has become critical for
-strategic decision-making.
+## 2. Creation of Business-Ready Metrics Using DAX
 
-### [Project 2: TRI-FLEET INDUSTRIES ANALYTICS](https://github.com/akhimiejr/Tri-Fleet-Industries-)
+Developed robust DAX measures to calculate key performance indicators such as Total Profit, Total Expenses, Quantity Sold, Number of Orders, and Profit Targets. Isolated calculations within a dedicated Measures table to improve model readability, performance, and reusability across multiple reports.
+
+## 3. End-to-End Sales and Profitability Analysis
+
+Delivered in-depth analysis of sales performance across products, customers, and time, enabling the business to identify high-margin products, top-performing customers, and loss-making areas. Visual comparisons of expenses versus profit provided clear insight into cost efficiency and pricing strategy.
+
+## 4. Customer and Regional Insight Generation
+
+Analysed customer purchasing behaviour and demographics by integrating customer location data with order performance. Built geographic and customer-level visuals to highlight regional profit concentration, order frequency, and volume contribution, supporting data-driven customer segmentation and targeted growth strategies.
+
+## 5. Interactive Dashboard Design with Slicers
+
+Designed intuitive, executive-level Power BI dashboards using slicers for Product and Customer, allowing stakeholders to dynamically filter and explore data. Ensured consistent visual hierarchy and storytelling across Customer and Product analysis views to enhance usability and decision-making.
+
+## 6. Actionable Reporting for Strategic Decision-Making
+
+Translated raw transactional data into actionable business insights that support inventory planning, product optimisation, and customer prioritisation. Enabled stakeholders to monitor trends over a 16-month period, identify seasonality, and align operational decisions with profitability and growth objectives.
+
+### [Project 3: TRI-FLEET INDUSTRIES ANALYTICS](https://github.com/akhimiejr/Tri-Fleet-Industries-)
 
 Tri-Fleet Industries is a specialised global retailer focused on vintage and classic vehicles, including cars, trucks, buses, trains, motorcycles, ships, and other collectible transport assets. The company serves a broad, high-value clientele across international markets, offering a distinctive portfolio of rare and sought-after vehicles. Through its diverse product range and worldwide reach, Tri-Fleet Industries operates within a niche market that combines heritage value with premium retail demand, positioning the business as a key provider of specialist and collectible vehicles globally.
 # Key Contributions
@@ -170,7 +183,7 @@ The Tri-Fleet Industries Analytics dashboard provides a comprehensive, data-driv
 <img src="https://github.com/user-attachments/assets/37323faf-b013-46d8-b1f1-95c8fa452933" width="100%" alt="Screenshot 2025-12-16 120706" />
 
 
-### [Project 3: GLOBAL INSIGHT ANALYTICS](https://github.com/akhimiejr/GLOBAL-INSIGHT-ANALYTICS)
+### [Project 4: GLOBAL INSIGHT ANALYTICS](https://github.com/akhimiejr/GLOBAL-INSIGHT-ANALYTICS)
 This report presents a comprehensive global demographic analysis, illustrating how the world population has evolved over time, how it is geographically distributed today, and how it is segmented by major religious affiliations. The structure of the report allows the reader to develop an understanding of long-term trends, present-day population concentration, and underlying cultural composition. Power BI has been used to extract data directly from online sources, enabling automation, periodic refresh, and continuous accuracy as global data updates. The design and analytical flow position the report as both a reference tool and a dashboard for ongoing monitoring.
 # Key Contributions
 ## 1. Sourced and Extracted Live Global Demographic Data
@@ -197,7 +210,7 @@ The report demonstrates effective use of Power BI’s online data connectivity f
 
 <img src="https://github.com/user-attachments/assets/275ad198-30c6-475f-9689-35dc7166a9ee"  width="100%" alt="Screenshot 2025-12-07 173211"  />
 
-### [Project 4:PURE SIP'S BEVERSGES](https://github.com/akhimiejr/PureSip-Beverages)
+### [Project 5:PURE SIP'S BEVERSGES](https://github.com/akhimiejr/PureSip-Beverages)
 PureSip Beverages is a growing beverage distribution company supplying popular brands such as Coke, Fanta, Sprite, and other leading soft drinks to major retailers including Costco, Walgreens, Target, and Walmart. As the organisation expanded, sales reporting became increasingly fragmented due to reliance on separate spreadsheets managed by regional managers. To address challenges related to data consolidation, reporting accuracy, and analytical capability, PureSip implemented a Power BI solution using a centralised folder connection and automated refresh, enabling real-time visibility of performance across all locations.
 
 # Key Contributions

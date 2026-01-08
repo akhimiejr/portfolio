@@ -112,6 +112,20 @@ Customer performance analysis reveals that profitability is concentrated among a
 
 <img src="https://github.com/user-attachments/assets/77d72a84-ac2a-404d-9a7d-23a12878133e" width="100%" alt="Screenshot 2025-11-28 165820"  />
 
+### [Project 2: DREAMY BITES SALES ANALYSIS](https://github.com/akhimiejr/Dreamy-Bites)
+Dreamy Bites is a premium cookie brand
+specializing in a variety of delectable treats,
+including chocolate chip, oatmeal raisin,
+and other gourmet cookies. The company
+
+has earned a reputation for delivering top-
+notch products to retailers and customers
+
+worldwide. As the business grows, analyzing
+sales trends, customer behavior, and
+product performance has become critical for
+strategic decision-making.
+
 ### [Project 2: TRI-FLEET INDUSTRIES ANALYTICS](https://github.com/akhimiejr/Tri-Fleet-Industries-)
 
 Tri-Fleet Industries is a specialised global retailer focused on vintage and classic vehicles, including cars, trucks, buses, trains, motorcycles, ships, and other collectible transport assets. The company serves a broad, high-value clientele across international markets, offering a distinctive portfolio of rare and sought-after vehicles. Through its diverse product range and worldwide reach, Tri-Fleet Industries operates within a niche market that combines heritage value with premium retail demand, positioning the business as a key provider of specialist and collectible vehicles globally.

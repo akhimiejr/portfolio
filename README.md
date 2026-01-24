@@ -77,10 +77,30 @@ I enjoy working on data-driven projects that uncover trends, improve decision-ma
 ## Projects
 
 ## SQL PROJECTS
+
 ### [Project 1:AURELIA-STYLES](https://github.com/akhimiejr/Aurelia-Styles)
 
+Aurelia Styles is a multi-store fashion retail brand specializing in premium Afro-
+contemporary apparel, footwear, and accessories. With stores across multiple regions
+in Nigeria, the company serves a diverse customer base segmented by age, gender, and
+loyalty status (VIP vs Regular). Aurelia Styles prides itself on blending traditional
+Nigerian designs with modern fashion trends, offering products that cater to both
+everyday wear and special occasions.
+The company operates a mix of physical stores and sales channels, including in-store,
+online, and mobile app platforms, allowing customers to shop conveniently while
+providing comprehensive data on purchasing patterns. Aurelia Styles is committed to
+delivering high-quality products, personalized customer experiences, and strategic
+promotions that drive engagement and loyalty.
+
+## Rationale for the Project
+
+<img src="https://github.com/user-attachments/assets/4f44aa7c-afbd-4b4f-ad7f-0a4ce4871e2d" width="100%" alt="Screenshot 2026-01-24 140339"  />
+
+
 ## POWER BI PROJECTS
+
 ### [Project 1: DESKIFY OFFICE SUPPLIES REPORT](https://github.com/akhimiejr/DESKIFY-OFFICE-SUPPLIES-REPORT)
+
 Deskify Office Supply Co. is a leading retailer
 specializing in office supplies,
 technology/computer accessories, and furniture.

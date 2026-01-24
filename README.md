@@ -7,12 +7,11 @@
 I am a **Data Analyst** with a strong foundation in mathematics and passion for transforming data into actionable insights.
 
 ## 💻 Technical Skills
-- Python  
-- SQL  
-- R Studio  
-- Power BI  
-- Excel
-- Tableau 
+- Programming & Query Languages: SQL, Excel
+- Data Visualization & BI Tools: Power BI, Tableau, Excel
+- Database Management: Microsoft SQL Server, MySQL, PostgreSQL,J
+- Cloud & Collaboration Tools: Microsoft Windows Server, Google Suite, Microsoft Office Suite, Slack, Zoom, Team Viewer
+- Project & Delivery Tools: JIRA, Agile (Scrum / Kanban) 
 
 ## 🎓 Education
 - MSc in Big Data Analytics – *University of Derby* , October 2024 

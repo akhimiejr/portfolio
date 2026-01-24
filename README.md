@@ -46,22 +46,30 @@ finance teams to translate business needs into data-driven
 solutions, supporting strategic initiatives with clear, actionable
 insights.
 
-### 🏢 Data Analyst
-**National Automotive Design and Development Council**  
-*Dec 2020 – Aug 2022*  
-- Assisted in reviewing financial records, expense reports, and budgets to ensure compliance with accounting standards and organizational policies.  
-- Identified financial and operational risks, documented findings, and proposed mitigation recommendations.  
-- Participated in requirement gathering, documentation, analysis, and elicitation sessions with stakeholders to define project specifications.  
-- Conducted market analysis on automotive trends, consumer preferences, and global automotive standards.  
-- Analyzed large datasets to extract insights on industry performance, manufacturing processes, and financial metrics.
-
 ### 🏥 Data Analyst  
 **UDUTH – Usmanu Danfodiyo University Teaching Hospital**  
 *Sep 2022 – Aug 2023*  
-- Ensured regular data backups and implemented disaster recovery processes and data security measures.  
-- Managed server installation, configuration, and maintenance to ensure uptime and performance.  
-- Collaborated with developers to identify and resolve issues in the result processing management system.  
-- Trained hospital staff on IT systems, hospital software, and data security best practices.
+- Worked closely with senior analysts and stakeholders to identify data quality issues, reporting inefficiencies, and process bottlenecks 
+within financial and operational datasets, supporting improved forecasting and evidence-based decision-making. 
+- Supported the availability, integrity, and reliability of data systems used for operational and financial reporting, ensuring consistent access 
+to accurate datasets for analysis and performance monitoring.
+- Assisted in data governance and assurance activities, including routine data backups and disaster recovery processes, helping to safeguard 
+critical datasets and support business continuity and regulatory compliance. 
+- Contributed to the standardisation and optimisation of reporting workflows, improving data accuracy, consistency, and timeliness to 
+support management reporting and service planning. 
+
+### 🏢 Data Analyst
+**National Automotive Design and Development Council**  
+*Dec 2020 – Aug 2022*  
+- Aggregated and analyzed automotive industry data to uncover market trends, consumer preferences, and pricing opportunities, 
+supporting competitive pricing strategies that enhanced market positioning and revenue growth.
+- Developed predictive models to forecast revenue trends and customer demand, enabling leadership to make informed decisions on 
+pricing, expansion, and supply chain management, fueling sustainable organizational growth. 
+- Conducted market and industry analysis by collecting, cleaning, and analysing automotive data related to consumer behaviour, market 
+trends, and global industry standards 
+- Analysed large and complex datasets to generate insights on automotive performance, manufacturing efficiency, and key financial 
+indicators, supporting strategic and operational planning 
+
 
 
 ## 📊 What I Do

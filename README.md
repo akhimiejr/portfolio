@@ -157,7 +157,7 @@ The expected output is a summary table displaying each sales channel alongside i
 
 ## Codes III
 
-<img width="948" height="677" alt="Screenshot 2026-01-24 150546" src="https://github.com/user-attachments/assets/dcbde3ee-0455-4ac9-8ae5-34df88c86c6b" />
+<img src="https://github.com/user-attachments/assets/dcbde3ee-0455-4ac9-8ae5-34df88c86c6b" width="100%" alt="Screenshot 2026-01-24 150546" />
 
 - The first query compares net sales generated from discounted versus non-discounted transactions 💷. It uses a CASE statement to categorise each sale based on whether a discount was applied, classifying transactions as either Discounted or Not Discounted. The query then aggregates the net sales amount for each category by summing the relevant values and grouping the results by discount status. This approach provides a clear comparison of revenue performance between promotional and full-price sales.
 - The second query identifies which customers appear most frequently and how much they spend over time 👥. By joining the sales and customers tables, each transaction is linked to the relevant customer. The query then calculates total spend per customer using the SUM function and measures purchase frequency by counting the number of transactions. Results are grouped by customer and ordered by total spend in descending order.

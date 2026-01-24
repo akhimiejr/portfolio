@@ -76,6 +76,9 @@ indicators, supporting strategic and operational planning
 I enjoy working on data-driven projects that uncover trends, improve decision-making, and solve real-world problems.
 ## Projects
 
+## SQL PROJECTS
+### [Project 1:AURELIA-STYLES](https://github.com/akhimiejr/Aurelia-Styles)
+
 ## POWER BI PROJECTS
 ### [Project 1: DESKIFY OFFICE SUPPLIES REPORT](https://github.com/akhimiejr/DESKIFY-OFFICE-SUPPLIES-REPORT)
 Deskify Office Supply Co. is a leading retailer

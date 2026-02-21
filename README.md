@@ -80,6 +80,85 @@ I enjoy working on data-driven projects that uncover trends, improve decision-ma
 
 ### [Project 1:NextGen Corp](https://github.com/akhimiejr/Employee-Success-Analytics-at-NextGen-Corp./tree/main)
 
+This project focused on developing a comprehensive, data-driven workforce analytics framework for NextGen Corp. by centralising HR data within a PostgreSQL database and analysing key areas including employee retention, performance trends, and salary distribution. Through structured data modelling and advanced SQL analysis, the project identified turnover patterns, high-risk employees, departmental performance gaps, and potential pay disparities. By examining correlations between performance, attendance, and compensation, the analysis provided actionable insights to support fair salary structures, improve retention strategies, and enhance overall workforce planning. The outcome established a scalable analytics foundation to enable informed decision-making and long-term organisational growth.
+
+# Key Contributions to the Project
+## 1. 📊 Designed and Implemented Centralised HR Analytics Database
+Created and restored the “NextGen” PostgreSQL database, integrating Employees, Departments, Performance, Attendance, Turnover, and Salaries tables into a structured relational model. Enabled scalable workforce analytics through optimised SQL queries, data validation checks, and cross-table joins to support advanced reporting.
+
+## 2.📉 Developed Retention and Turnover Analytics Framework
+Calculated department-level turnover rates and analysed tenure distribution to identify retention risks. Built analytical views to flag high-risk employees using performance and attendance indicators. Identified primary exit reasons and visualised attrition patterns to support targeted retention strategies.
+
+## 3.📈 Built Departmental Performance Evaluation Models
+Assessed performance score distributions (high performers vs. underperformers) across departments. Computed average performance metrics and trend analyses to highlight capability gaps. Developed comparative performance dashboards to support continuous improvement initiatives.
+
+## 4.💰 Conducted Compensation and Pay Equity Analysis
+Evaluated total organisational salary expenditure and average salary by job title and department. Analysed high-income distribution and performed correlation analysis between salary and performance scores to assess fairness, internal equity, and pay-performance alignment.
+
+## 5.🧠 Delivered Data-Driven Strategic Recommendations
+Translated analytical outputs into actionable insights for HR leadership. Provided evidence-based recommendations on retention strategy, performance optimisation, and compensation alignment to support sustainable workforce planning and organisational growth.
+
+# Database Queries and Out-Put
+## Employee Retention Analysis
+- ## Goal: Understand the employee turnover trends and identify the root causes of high turnover rates.
+## i. Who are the top 5 highest serving employees?
+
+<img src="https://github.com/user-attachments/assets/005b6645-7469-4679-ac73-05c909117a0a" width="100%" alt="Screenshot 2026-02-21 105438" />
+
+## ii. What is the turnover rate for each department?
+
+<img src="https://github.com/user-attachments/assets/3b63be23-6934-451d-b52a-7c3a60a33c37" width="100%" alt="Screenshot 2026-02-21 110329" />
+
+## iii. Which employees are at risk of leaving based on their performance?
+
+<img src="https://github.com/user-attachments/assets/81790f5d-a786-4047-ac3b-c93262980e86" width="100%" alt="Screenshot 2026-02-21 125900" />
+
+## iv. What are the main reasons employees are leaving the company?
+
+<img src="https://github.com/user-attachments/assets/123fe197-dcd2-4dc0-bb44-d76482abd917"  width="100%" alt="Screenshot 2026-02-21 130145" />
+
+## v.Employee Attendance Overview (Bottom 10)
+
+<img src="https://github.com/user-attachments/assets/117c5a97-aa99-4cfe-8273-def92ca8ebb5" width="100%" alt="Screenshot 2026-02-21 135327" />
+
+## Performance Analysis
+- ## Goal: Evaluate employee performance across different departments and identify areas where performance can be improved.
+## i.How many employees has left the company?
+
+<img src="https://github.com/user-attachments/assets/1e3bedf1-8563-4290-ba7f-04812ea4ac9f" width="100%" alt="Screenshot 2026-02-21 130855" />
+
+## ii.How many employees have a performance score of 5.0 / below 3.5?
+
+<img src="https://github.com/user-attachments/assets/40414a7e-f28e-4803-9f9e-e537e40d5ac2" width="100%" alt="Screenshot 2026-02-21 131149" />
+
+## iii.Which department has the most employees with a performance of 5.0 / below 3.5?
+
+<img src="https://github.com/user-attachments/assets/8d20ef82-ab2f-4996-ae7a-4f7ad89a45f5" width="100%" alt="Screenshot 2026-02-21 131613" />
+
+## iv.What is the average performance score by department?
+
+<img src="https://github.com/user-attachments/assets/23358c0a-4465-4b9a-9b7e-2766e8cdb496"  width="100%" alt="Screenshot 2026-02-21 132727" />
+
+## Salary Analysis
+- ## Goal: Analyze salary distribution and ensure fair compensation based on performance and departmental benchmarks.
+## i.What is the total salary expense for the company?
+
+<img src="https://github.com/user-attachments/assets/43eb67ff-0b3e-4e62-8845-9c083845cd9c"  width="100%" alt="image" />
+
+## ii.What is the average salary by job title?
+
+<img src="https://github.com/user-attachments/assets/d2ae9dc5-44be-45be-9351-5df19555f713" width="100%" alt="Screenshot 2026-02-21 134206" />
+
+
+## iii.How many employees earn above 80,000?
+
+<img src="https://github.com/user-attachments/assets/dafe5e96-e8da-400e-96ff-579c3266a949"  width="100%" alt="Screenshot 2026-02-21 134400" />
+
+## iv.How does performance correlate with salary across departments?
+
+<img src="https://github.com/user-attachments/assets/b11d4bef-b27b-4bf4-b320-cc5639ed6d36" width="100%" alt="Screenshot 2026-02-21 134638" />
+
+
 ### [Project 2:AURELIA-STYLES](https://github.com/akhimiejr/Aurelia-Styles)
 
 Aurelia Styles is a multi-store fashion retail brand specializing in premium Afro-

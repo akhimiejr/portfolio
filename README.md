@@ -78,7 +78,9 @@ I enjoy working on data-driven projects that uncover trends, improve decision-ma
 
 ## SQL PROJECTS
 
-### [Project 1:AURELIA-STYLES](https://github.com/akhimiejr/Aurelia-Styles)
+### [Project 1:NextGen Corp](https://github.com/akhimiejr/Employee-Success-Analytics-at-NextGen-Corp./tree/main)
+
+### [Project 2:AURELIA-STYLES](https://github.com/akhimiejr/Aurelia-Styles)
 
 Aurelia Styles is a multi-store fashion retail brand specializing in premium Afro-
 contemporary apparel, footwear, and accessories. With stores across multiple regions

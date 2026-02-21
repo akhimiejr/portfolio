@@ -7,8 +7,8 @@
 I am a **Data Analyst** with a strong foundation in mathematics and passion for transforming data into actionable insights.
 
 ## 💻 Technical Skills
-- Programming & Query Languages: SQL(complex joins, CTEs, optimisation), Excel
-- Data Visualization & BI Tools: Power BI(Advanced DAX), Tableau, Excel
+- Programming & Query Languages: SQL(complex joins, CTEs, optimisation), Excel, Python(Adavanced ML models & LLMs)
+- Data Visualization & BI Tools: Power BI(Power Quary & Advanced DAX), Tableau, Excel
 - Database Management: Microsoft SQL Server, MySQL, PostgreSQL(Advanced)
 - Cloud & Collaboration Tools: Microsoft Windows Server, Google Suite, Microsoft Office Suite, Slack, Zoom, Team Viewer
 - Project & Delivery Tools: JIRA, Agile (Scrum / Kanban) 

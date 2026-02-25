@@ -453,6 +453,16 @@ This Report provides a comprehensive, filter-driven sales analysis for Pure Sip,
 <img src="https://github.com/user-attachments/assets/950294e9-9803-4a0d-b3b7-6ab9aa1f5181" width="100%" alt="Screenshot 2025-12-07 191117" />
 
 
+## TABLEAU PROJECTS
+### [Project 1: Talent-Pulse Solutions Inc](https://github.com/akhimiejr/Talent-Pulse-Solutions-Inc)
+Talent-Pulse Solutions Inc. is a workforce optimization organization focused on improving employee retention, engagement, and overall performance through data-driven decision-making. Facing rising attrition rates and inconsistent workforce satisfaction, the company seeks to leverage HR analytics to identify key drivers of turnover across departments, demographics, tenure, and compensation structures. By analyzing factors such as job satisfaction, work-life balance, performance ratings, overtime, promotions, and managerial relationships, Talent-Pulse aims to uncover actionable insights that support strategic workforce planning. Through centralized dashboards and structured data governance, the organization intends to enhance transparency, strengthen retention strategies, and improve long-term organizational effectiveness.
+# Key Contribution
+- Designed and built the end-to-end HR analytics dashboard by integrating employee, attrition, performance, and compensation data into a single, interactive view, enabling stakeholders to quickly understand workforce trends and risk areas.
+- Analysed attrition patterns across departments, roles, and demographics, identifying Sales and R&D as key attrition hotspots and highlighting early-to-mid career employees (ages 27–35) as the most at-risk group.
+- Developed demographic and educational insights by examining gender distribution, age groups, and educational fields to uncover retention strengths and areas requiring targeted engagement strategies.
+- Interpreted survey scores and recent attrition profiles to connect low job satisfaction, limited role tenure, and salary progression with employee exits, providing a more nuanced understanding of voluntary turnover drivers.
+- Translated analytical findings into actionable recommendations, helping demonstrate how data can support improved retention strategies, career development planning, and compensation alignment to enhance overall workforce stability.
+
 ## EXCEL PROJECTS
 ### [Project 1: CAFE-HARMONY-PROJECT](https://github.com/akhimiejr/CAFE-HARMONY-PROJECT-)
 At Café Harmony, we have been navigating a period of impressive growth, which has brought new challenges as we scale to meet increasing customer demand with multiple locations across the city, each with unique customer preferences and performance metrics, maintaining efficient operations and delivering a consistently high-quality experience has become increasingly complex.

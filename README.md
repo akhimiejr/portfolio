@@ -74,8 +74,9 @@ indicators, supporting strategic and operational planning
 
 ## 📊 What I Do
 I enjoy working on data-driven projects that uncover trends, improve decision-making, and solve real-world problems.
+
 # HANDS ON PROJECTS
-[PROJECTS ARE SEGMENTED BY TOOLS USED: SQL, POWER BI, POSTGRESQL, PYTHON, EXCEL AND TABLEAU]()
+[THE BELOW PROJECTS ARE SEGMENTED BY TOOLS USED: SQL, POWER BI, POSTGRESQL, PYTHON, EXCEL AND TABLEAU]()
 ## SQL PROJECTS
 
 ### [Project 1:NextGen Corp](https://github.com/akhimiejr/Employee-Success-Analytics-at-NextGen-Corp./tree/main)

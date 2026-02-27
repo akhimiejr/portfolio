@@ -9,8 +9,8 @@ I am a **Data Analyst** with a strong foundation in mathematics and passion for 
 ## 💻 Technical Skills
 - Programming & Query Languages: SQL(complex joins, CTEs, optimisation), Excel, Python(Adavanced ML models & LLMs)
 - Data Visualization & BI Tools: Power BI(Power Quary & Advanced DAX), Tableau, Excel
-- Database Management: Microsoft SQL Server, MySQL, PostgreSQL(Advanced)
-- Cloud & Collaboration Tools: Microsoft Windows Server, Google Suite, Microsoft Office Suite, Slack, Zoom, Team Viewer
+•	Cloud & Data Platforms: Microsoft Fabric (Lakehouse, Data Factory, Data Warehousing, Power BI integration), Microsoft SQL Server, MySQL, PostgreSQL (Advanced), Microsoft Windows Server
+- Collaboration Tools: Microsoft Windows Server, Google Suite, Microsoft Office Suite, Slack, Zoom, Team Viewer
 - Project & Delivery Tools: JIRA, Agile (Scrum / Kanban) 
 
 ## 🎓 Education
@@ -20,31 +20,16 @@ I am a **Data Analyst** with a strong foundation in mathematics and passion for 
 
 ## 💼 Experience
 
-### 🏢 Data Analyst  
+### 🏢 Senior Data Analyst  
 **Amdari-London, United Kingdom**
 
 *Jan 2025 - Present*
+- Led the design and implementation of automated data validation and cleansing pipelines using SQL and Excel, taking full ownership of data quality strategy and reducing errors by 25%. Partnered with business stakeholders to ensure improved data integrity directly supported executive reporting and business intelligence decision-making.
+-	Designed and delivered executive-facing, interactive dashboards in Power BI, enabling senior leaders to access real-time operational and performance insights. Reduced report preparation time by 40% while improving transparency, strategic alignment, and cross-departmental accountability.
+-	Owned SQL database optimisation initiatives, restructuring complex query logic and implementing advanced indexing strategies to improve data retrieval efficiency by 30%. Proactively enhanced system performance to support scalable analytics and enterprise-level reporting demands.
+-	Established and championed data governance frameworks, ensuring full regulatory compliance and standardising data management practices across business units. Acted as a key advisor on data security, integrity, and reporting standards, strengthening organisational trust in analytics outputs.
+-	Transformed legacy reporting into automated, scalable intelligence solutions that reduced manual effort by 50%, repositioned analytics from reactive reporting to proactive strategic insight, and delivered board-ready recommendations from complex multi-source datasets to guide resource allocation, performance optimisation, and revenue-impacting decisions.
 
-- Spearheaded the development of a KPI dashboard using Power BI
-that enhanced decision making, reducing data reporting turnaround
-time by 45% and enabling leadership to make faster, more informed
-business decisions.
-- Conducted sales and customer analytics using Tableau, which led to
-identifying high value customer segments, increasing conversion
-rates by 30% through targeted marketing strategies.
-- Automated weekly and monthly reporting workflows using SQL, and
-Power BI, cutting down manual reporting efforts by 50% and ensuring
-real-time data accessibility.
-- Led a data quality initiative that cleaned and standardized over 1
-million records, improving data accuracy by 95% and enhancing the
-reliability of business reports.
-- Developed predictive models to analyze customer churn trends,
-resulting in a 25% reduction in customer attrition by implementing
-proactive engagement strategies.
-- Partnered with cross-functional teams including marketing and
-finance teams to translate business needs into data-driven
-solutions, supporting strategic initiatives with clear, actionable
-insights.
 
 ### 🏥 Data Analyst  
 **UDUTH – Usmanu Danfodiyo University Teaching Hospital**  

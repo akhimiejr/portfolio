@@ -32,16 +32,13 @@ I am a **Data Analyst** with a strong foundation in mathematics and passion for 
 
 
 ### 🏥 Data Analyst  
-**UDUTH – Usmanu Danfodiyo University Teaching Hospital**  
+**UDUTH – Government Teaching Hospital (UDUTH)**  
 *Sep 2022 – Aug 2023*  
-- Worked closely with senior analysts and stakeholders to identify data quality issues, reporting inefficiencies, and process bottlenecks 
-within financial and operational datasets, supporting improved forecasting and evidence-based decision-making. 
-- Supported the availability, integrity, and reliability of data systems used for operational and financial reporting, ensuring consistent access 
-to accurate datasets for analysis and performance monitoring.
-- Assisted in data governance and assurance activities, including routine data backups and disaster recovery processes, helping to safeguard 
-critical datasets and support business continuity and regulatory compliance. 
-- Contributed to the standardisation and optimisation of reporting workflows, improving data accuracy, consistency, and timeliness to 
-support management reporting and service planning. 
+-	I partnered with senior stakeholders and cross-functional teams to identify data quality issues, reporting inefficiencies, and process bottlenecks, driving improvements that enhanced forecasting accuracy and supported evidence-based decision-making.
+-	I ensured the availability, integrity, and reliability of critical data systems, maintaining consistent access to accurate datasets for operational and strategic analysis and enabling informed business decisions.
+-	I led data governance and assurance initiatives, including data validation, backups, and disaster recovery processes, safeguarding datasets while ensuring compliance with internal standards and regulatory requirements.
+-	I standardised and optimised reporting workflows, improving data accuracy, consistency, and timeliness, and delivered executive-facing insights that supported management reporting, operational planning, and strategic initiatives.
+
 
 ### 🏢 Data Analyst
 **National Automotive Design and Development Council**  

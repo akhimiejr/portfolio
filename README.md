@@ -8,7 +8,7 @@ I am a **Data Analyst** with a strong foundation in mathematics and passion for 
 
 ## 💻 Technical Skills
 - Programming & Query Languages: SQL(complex joins, CTEs, optimisation), Excel, Python(Adavanced ML models & LLMs)
-- Data Visualization & BI Tools: Power BI(Power Quary & Advanced DAX), Tableau, Excel
+- Data Visualisation & BI Tools: Power BI(Power Quary & Advanced DAX), Tableau, Excel
 -	Cloud & Data Platforms: Microsoft Fabric (Lakehouse, Data Factory, Data Warehousing, Power BI integration), Microsoft SQL Server, MySQL, PostgreSQL (Advanced), Microsoft Windows Server
 - Collaboration Tools: Microsoft Windows Server, Google Suite, Microsoft Office Suite, Slack, Zoom, Team Viewer
 - Project & Delivery Tools: JIRA, Agile (Scrum / Kanban) 
@@ -43,10 +43,10 @@ I am a **Data Analyst** with a strong foundation in mathematics and passion for 
 ### 🏢 Data Analyst
 **National Automotive Design and Development Council**  
 *Dec 2020 – Aug 2022*  
-- Aggregated and analyzed automotive industry data to uncover market trends, consumer preferences, and pricing opportunities, 
+- Aggregated and analysed automotive industry data to uncover market trends, consumer preferences, and pricing opportunities, 
 supporting competitive pricing strategies that enhanced market positioning and revenue growth.
 - Developed predictive models to forecast revenue trends and customer demand, enabling leadership to make informed decisions on 
-pricing, expansion, and supply chain management, fueling sustainable organizational growth. 
+pricing, expansion, and supply chain management, fueling sustainable organisational growth. 
 - Conducted market and industry analysis by collecting, cleaning, and analysing automotive data related to consumer behaviour, market 
 trends, and global industry standards 
 - Analysed large and complex datasets to generate insights on automotive performance, manufacturing efficiency, and key financial 
@@ -123,7 +123,7 @@ Translated analytical outputs into actionable insights for HR leadership. Provid
 <img src="https://github.com/user-attachments/assets/23358c0a-4465-4b9a-9b7e-2766e8cdb496"  width="100%" alt="Screenshot 2026-02-21 132727" />
 
 ## Salary Analysis
-- ## Goal: Analyze salary distribution and ensure fair compensation based on performance and departmental benchmarks.
+- ## Goal: Analyse salary distribution and ensure fair compensation based on performance and departmental benchmarks.
 ## i.What is the total salary expense for the company?
 
 <img src="https://github.com/user-attachments/assets/43eb67ff-0b3e-4e62-8845-9c083845cd9c"  width="100%" alt="image" />
@@ -144,7 +144,7 @@ Translated analytical outputs into actionable insights for HR leadership. Provid
 
 ### [Project 2:AURELIA-STYLES](https://github.com/akhimiejr/Aurelia-Styles)
 
-Aurelia Styles is a multi-store fashion retail brand specializing in premium Afro-
+Aurelia Styles is a multi-store fashion retail brand specialising in premium Afro-
 contemporary apparel, footwear, and accessories. With stores across multiple regions
 in Nigeria, the company serves a diverse customer base segmented by age, gender, and
 loyalty status (VIP vs Regular). Aurelia Styles prides itself on blending traditional
@@ -153,7 +153,7 @@ everyday wear and special occasions.
 The company operates a mix of physical stores and sales channels, including in-store,
 online, and mobile app platforms, allowing customers to shop conveniently while
 providing comprehensive data on purchasing patterns. Aurelia Styles is committed to
-delivering high-quality products, personalized customer experiences, and strategic
+delivering high-quality products, personaliesd customer experiences, and strategic
 promotions that drive engagement and loyalty.
 
 ## Rationale for the Project
@@ -254,7 +254,7 @@ The intended output of this query is a table showing each product category along
 ### [Project 1: DESKIFY OFFICE SUPPLIES REPORT](https://github.com/akhimiejr/DESKIFY-OFFICE-SUPPLIES-REPORT)
 
 Deskify Office Supply Co. is a leading retailer
-specializing in office supplies,
+specialising in office supplies,
 technology/computer accessories, and furniture.
 With a diverse product range catering to both
 individual consumers and businesses, They have
@@ -270,13 +270,13 @@ I conducted a full review of the dataset and dashboards, extracting key trends, 
 ## 2. Critical Performance Evaluation Across Business Dimensions:
 A structured assessment was completed across major analytical categories including product profitability, customer segmentation, geographic distribution, shipping behavior, and seasonal trends. This allowed for a comprehensive understanding of strengths, weaknesses, and operational inefficiencies affecting overall performance.
 ## 3. Strategic Improvement Recommendations:
-I translated analytical findings into targeted business recommendations addressing profitability optimization, logistics cost control, product mix refinement, customer retention, and market expansion. These recommendations were aligned with practical business applications and designed to support margin improvement and growth strategy.
-## 4. Data Storytelling and Insight Summarization:
-The analysis was refined into clear, concise narrative summaries suitable for stakeholder communication. Insights were structured to support executive-level decision-making, ensuring the data could be easily understood, prioritized, and used to inform next steps across operational and strategic functions.
+I translated analytical findings into targeted business recommendations addressing profitability optimisation, logistics cost control, product mix refinement, customer retention, and market expansion. These recommendations were aligned with practical business applications and designed to support margin improvement and growth strategy.
+## 4. Data Storytelling and Insight Summarisation:
+The analysis was refined into clear, concise narrative summaries suitable for stakeholder communication. Insights were structured to support executive-level decision-making, ensuring the data could be easily understood, prioritised, and used to inform next steps across operational and strategic functions.
 ## 5. Model and Structure Review for Analytics Maturity:
-Beyond visual insights, I evaluated the underlying Power BI data model, confirming appropriate schema structure, relationships, and calculated measure organization. This contribution supports scalability, maintainability, and future enhancements to reporting capabilities and analytical rigor.
+Beyond visual insights, I evaluated the underlying Power BI data model, confirming appropriate schema structure, relationships, and calculated measure organisation. This contribution supports scalability, maintainability, and future enhancements to reporting capabilities and analytical rigor.
 # Data Modelling 
-The data model represents a well-structured star schema centered on a single fact table, TransactionFact, which stores operational data such as revenue, profit, quantity, order dates, product IDs, and customer IDs. This fact table connects to multiple supporting dimension tables, including CustomerDim, ProductDim, OrderDim, LocationDim, and CalendarDim, each providing descriptive attributes for filtering, categorization, and analysis. All relationships are appropriately configured as one-to-many from dimensions to the fact table with single-direction filtering, which aligns with best practices for analytical reporting and avoids ambiguity. A separate "Calculated Measures" table is included, demonstrating strong governance by centralizing DAX calculations for maintainability. Overall, the model is clean, scalable, and optimized for Power BI reporting, though future refinements such as hierarchies, surrogate keys, and extended cost structures could further enhance analytical depth and long-term scalability.
+The data model represents a well-structured star schema centered on a single fact table, TransactionFact, which stores operational data such as revenue, profit, quantity, order dates, product IDs, and customer IDs. This fact table connects to multiple supporting dimension tables, including CustomerDim, ProductDim, OrderDim, LocationDim, and CalendarDim, each providing descriptive attributes for filtering, categorisation, and analysis. All relationships are appropriately configured as one-to-many from dimensions to the fact table with single-direction filtering, which aligns with best practices for analytical reporting and avoids ambiguity. A separate "Calculated Measures" table is included, demonstrating strong governance by centralising DAX calculations for maintainability. Overall, the model is clean, scalable, and optimised for Power BI reporting, though future refinements such as hierarchies, surrogate keys, and extended cost structures could further enhance analytical depth and long-term scalability.
 
 
 <img src="https://github.com/user-attachments/assets/25f41cea-6431-4b3d-86ee-375af66ea137" width="100%" alt="Sales Performance Dashboard Screenshot" />
@@ -284,7 +284,7 @@ The data model represents a well-structured star schema centered on a single fac
 
 # Dashboard Reporting
 ## Product Performance Analysis
-Deskify’s product performance shows strong revenue contribution from certain categories, with Furniture generating the majority of total profit at 985.36K (64.73%), followed by Office Supplies at 331.03K and Technology at 205.95K. Subcategory insight reveals key performers such as binders, paper, and furnishings, while the copier category operates at a loss of -16K, suggesting pricing issues, warranty expense, or high logistics overhead. Top individual products—including Eldon ClusterMat and Panasonic models—highlight a dependency on a small set of profitable SKUs, creating product concentration risk. Operational data further indicates significant shipping cost pressure due to reliance on air freight (nearly 90% of orders), which likely diminishes margins and limits scale efficiency. Seasonal fluctuations in profitability also suggest the need for improved forecasting, inventory planning, and promotional timing. Overall, strengthening the product portfolio through cost optimization, renegotiated vendor terms, improved shipping strategy, and a focus on high-margin categories represents a key opportunity to unlock higher profitability.
+Deskify’s product performance shows strong revenue contribution from certain categories, with Furniture generating the majority of total profit at 985.36K (64.73%), followed by Office Supplies at 331.03K and Technology at 205.95K. Subcategory insight reveals key performers such as binders, paper, and furnishings, while the copier category operates at a loss of -16K, suggesting pricing issues, warranty expense, or high logistics overhead. Top individual products—including Eldon ClusterMat and Panasonic models—highlight a dependency on a small set of profitable SKUs, creating product concentration risk. Operational data further indicates significant shipping cost pressure due to reliance on air freight (nearly 90% of orders), which likely diminishes margins and limits scale efficiency. Seasonal fluctuations in profitability also suggest the need for improved forecasting, inventory planning, and promotional timing. Overall, strengthening the product portfolio through cost optimisation, renegotiated vendor terms, improved shipping strategy, and a focus on high-margin categories represents a key opportunity to unlock higher profitability.
 
 <img src="https://github.com/user-attachments/assets/a76f588c-6e5d-41a4-92a2-ffcd3fa046fc" width="100%" alt="Screenshot 2025-11-28 165734" />
 
@@ -295,7 +295,7 @@ Customer performance analysis reveals that profitability is concentrated among a
 <img src="https://github.com/user-attachments/assets/77d72a84-ac2a-404d-9a7d-23a12878133e" width="100%" alt="Screenshot 2025-11-28 165820"  />
 
 ### [Project 2: DREAMY BITES SALES ANALYSIS](https://github.com/akhimiejr/Dreamy-Bites)
-Dreamy Bites is a premium cookie brand specializing in a variety of delectable treats, including chocolate chip, oatmeal raisin,and other gourmet cookies. The company has earned a reputation for delivering top-notch products to retailers and customers worldwide. As the business grows, analyzing sales trends, customer behavior, and product performance has become critical for strategic decision-making.
+Dreamy Bites is a premium cookie brand specialising in a variety of delectable treats, including chocolate chip, oatmeal raisin,and other gourmet cookies. The company has earned a reputation for delivering top-notch products to retailers and customers worldwide. As the business grows, analysing sales trends, customer behavior, and product performance has become critical for strategic decision-making.
 # Key Contributions
 ## 1. Multi-Source Data Integration and Modelling
 
@@ -438,7 +438,7 @@ This Report provides a comprehensive, filter-driven sales analysis for Pure Sip,
 
 ## TABLEAU PROJECTS
 ### [Project 1: Talent-Pulse Solutions Inc](https://github.com/akhimiejr/Talent-Pulse-Solutions-Inc)
-Talent-Pulse Solutions Inc. is a workforce optimization organization focused on improving employee retention, engagement, and overall performance through data-driven decision-making. Facing rising attrition rates and inconsistent workforce satisfaction, the company seeks to leverage HR analytics to identify key drivers of turnover across departments, demographics, tenure, and compensation structures. By analyzing factors such as job satisfaction, work-life balance, performance ratings, overtime, promotions, and managerial relationships, Talent-Pulse aims to uncover actionable insights that support strategic workforce planning. Through centralized dashboards and structured data governance, the organization intends to enhance transparency, strengthen retention strategies, and improve long-term organizational effectiveness.
+Talent-Pulse Solutions Inc. is a workforce optimisation organisation focused on improving employee retention, engagement, and overall performance through data-driven decision-making. Facing rising attrition rates and inconsistent workforce satisfaction, the company seeks to leverage HR analytics to identify key drivers of turnover across departments, demographics, tenure, and compensation structures. By analysing factors such as job satisfaction, work-life balance, performance ratings, overtime, promotions, and managerial relationships, Talent-Pulse aims to uncover actionable insights that support strategic workforce planning. Through centralised dashboards and structured data governance, the organisation intends to enhance transparency, strengthen retention strategies, and improve long-term organisational effectiveness.
 # Key Contribution
 - Designed and built the end-to-end HR analytics dashboard by integrating employee, attrition, performance, and compensation data into a single, interactive view, enabling stakeholders to quickly understand workforce trends and risk areas.
 - Analysed attrition patterns across departments, roles, and demographics, identifying Sales and R&D as key attrition hotspots and highlighting early-to-mid career employees (ages 27–35) as the most at-risk group.
@@ -455,7 +455,7 @@ The HR Analytics Dashboard highlights an overall attrition rate of 16.36%, with 
 ### [Project 1: CAFE-HARMONY-PROJECT](https://github.com/akhimiejr/CAFE-HARMONY-PROJECT-)
 At Café Harmony, we have been navigating a period of impressive growth, which has brought new challenges as we scale to meet increasing customer demand with multiple locations across the city, each with unique customer preferences and performance metrics, maintaining efficient operations and delivering a consistently high-quality experience has become increasingly complex.
 To address these challenges, My team and I proactively applied Root Cause Analysis (RCA) to uncover the underlying sources of inefficiency, implemented Lean Management principles to streamline operations and reduce waste, and leveraged Data-Driven Decision Making (DDDM) to track sales trends and performance metrics across all locations. We also embraced Continuous Improvement (Kaizen) practices to support sustainable growth and long-term operational excellence. Simultaneously, we conducted in-depth customer analysis to refine service delivery and elevate satisfaction, ensuring every customer interaction aligns with Café Harmony’s high standards.
-Through these initiatives, we are focused on optimizing resource management, enhancing staff performance, and strengthening service strategies creating a foundation for sustainable growth while continuing to provide the exceptional experience that our customers have come to expect
+Through these initiatives, we are focused on optimising resource management, enhancing staff performance, and strengthening service strategies creating a foundation for sustainable growth while continuing to provide the exceptional experience that our customers have come to expect
 # Key Contributions
 ## Data Cleaning and Preparation
 
@@ -497,20 +497,20 @@ The image Above displays an Excel workbook transformed into a compact analytics 
 <img src="https://github.com/user-attachments/assets/8b52bb36-94ab-4c3c-a26c-14ae7d285903"  width="100%" alt="Screenshot 2025-11-23 130931" />
 
 
-The Cafe Harmony Sales & Performance Dashboard provides a comprehensive insight of the café’s overall business health, showing total sales of £12,589.95 generated from 1003 customers, with 10 main stock items tracked and an average customer rating of 3.05. Monthly sales trends reveal fluctuations throughout the year, peaking in May and dipping in March, while demographic data shows a nearly even distribution across young adults, adults, and elderly customers. Product performance highlights Muffins, Latte, and Iced Tea as top revenue generators, whereas items like Cappuccino and Sandwiches perform less strongly. Stock movement indicates high usage of milk, croissant dough, and iced tea bags, contrasted with increases in sugar and coffee beans. Staff performance displays notable variation, with high achievers like Megan White outperforming others. Rating analysis reveals a predominance of 4- and 5-star reviews despite the moderate overall average. Together, these insights show strong product engagement, steady customer traffic, opportunities for inventory optimization, and areas for staff development and service improvement.
+The Cafe Harmony Sales & Performance Dashboard provides a comprehensive insight of the café’s overall business health, showing total sales of £12,589.95 generated from 1003 customers, with 10 main stock items tracked and an average customer rating of 3.05. Monthly sales trends reveal fluctuations throughout the year, peaking in May and dipping in March, while demographic data shows a nearly even distribution across young adults, adults, and elderly customers. Product performance highlights Muffins, Latte, and Iced Tea as top revenue generators, whereas items like Cappuccino and Sandwiches perform less strongly. Stock movement indicates high usage of milk, croissant dough, and iced tea bags, contrasted with increases in sugar and coffee beans. Staff performance displays notable variation, with high achievers like Megan White outperforming others. Rating analysis reveals a predominance of 4- and 5-star reviews despite the moderate overall average. Together, these insights show strong product engagement, steady customer traffic, opportunities for inventory optimisation, and areas for staff development and service improvement.
 
 
 ## PYTHON PROJECTS
 ### [Project 1: CRIME ANALYSIS REPORT](https://akhimiejr.github.io/CRIME-ANALYSIS-REPORT-FROM/)
 
-The project analyzes various crime types, such as violent and non-violent crimes, to understand their frequency, affected demographics, times of occurrence, and geographical distribution. Using Python, Jupyter Notebook, and libraries like pandas, matplotlib, seaborn, scikit-learn, and plotly, the analysis employs machine learning models Logistic Regression, Decision Trees, and Random Forest to predict crime likelihood and identify key contributing factors. The practical applications are significant, enabling financial institutions to prevent crime and allowing the LAPD to optimize patrols based on crime patterns. The study also integrates current crime detection and prevention methodologies, such as statistical analysis, GIS for spatial insights, and real-time alert systems, aiming to enhance public safety and resource efficiency.
+The project analyses various crime types, such as violent and non-violent crimes, to understand their frequency, affected demographics, times of occurrence, and geographical distribution. Using Python, Jupyter Notebook, and libraries like pandas, matplotlib, seaborn, scikit-learn, and plotly, the analysis employs machine learning models Logistic Regression, Decision Trees, and Random Forest to predict crime likelihood and identify key contributing factors. The practical applications are significant, enabling financial institutions to prevent crime and allowing the LAPD to optimise patrols based on crime patterns. The study also integrates current crime detection and prevention methodologies, such as statistical analysis, GIS for spatial insights, and real-time alert systems, aiming to enhance public safety and resource efficiency.
 ##  Key Contributions
 ###  Model Development 
-I designed and implemented machine learning models including Logistic Regression, Decision Trees, and Random Forest to predict the likelihood of crimes based on time, location, and demographic information. I also developed a predictive service to support law enforcement agencies in proactive crime prevention and optimized resource deployment.
+I designed and implemented machine learning models including Logistic Regression, Decision Trees, and Random Forest to predict the likelihood of crimes based on time, location, and demographic information. I also developed a predictive service to support law enforcement agencies in proactive crime prevention and optimised resource deployment.
 ###  Crime Variable Description  
-I analyzed a dataset of over 944,000 LAPD crime reports and documented 28 key variables, including crime types, victim demographics, weapon use, geographic data, and timestamps. This analysis was critical to understanding crime patterns and contextual factors.
+I analysed a dataset of over 944,000 LAPD crime reports and documented 28 key variables, including crime types, victim demographics, weapon use, geographic data, and timestamps. This analysis was critical to understanding crime patterns and contextual factors.
 ###  Data Visualisation  
-Using libraries like matplotlib, seaborn and plotly, I created interactive and static visualizations to show crime trends over time, geographic concentrations, and demographic patterns. These visual tools helped uncover important insights and supported model development.
+Using libraries like matplotlib, seaborn and plotly, I created interactive and static visualisations to show crime trends over time, geographic concentrations, and demographic patterns. These visual tools helped uncover important insights and supported model development.
 ###  Statistical Modeling  
 I conducted **correlation analysis** to explore relationships between variables such as time, location, and victim demographics. These statistical insights informed **feature selection** and improved the interpretability and performance of the machine learning models.
 ###  Data Cleaning  
@@ -539,10 +539,11 @@ significant financial losses and reputational damage. With the advent of digital
 and e-commerce, the risk of fraud has escalated, necessitating robust fraud detection and 
 prevention mechanisms. This study aims to leverage data analytics and historical transaction 
 data to uncover insights and develop robust fraud prevention strategies and anomalies that 
-can indicate fraudulent activities, thereby enabling organizations to take proactive measures 
+can indicate fraudulent activities, thereby enabling organisations to take proactive measures 
 to mitigate fraud risks.
 
  ## Aim and Objectives 
+ 
 The primary aim of this Project is to analyse a credit card fraud dataset to the identify patterns 
 and gain a comprehensive insight that can aid in the detection and prevention of fraudulent 
 activities. This will assist the banking industry in making critical step by which their 
@@ -559,7 +560,7 @@ transactions.
 - Develop strategies and techniques for detecting and preventing fraud based on the insights 
 gained from the analysis. 
 - Compare the effectiveness and efficiency of SAS and Tableau in performing fraud 
-analytics and data visualization.
+analytics and data visualisation.
 
 ## Some Visualisation
 <img width="386" alt="Screenshot 2025-04-21 140935" src="https://github.com/user-attachments/assets/5c63184e-34c8-472b-afcb-84c11d8b8b2e" />
@@ -596,15 +597,15 @@ women and young women. Teenage male customers also tend to fall victim as well.
 
 ### [Project 3: Predictive Analysis of Neurological Disorder Susceptibility Pattern for Urban Elderly Population](https://github.com/akhimiejr/PREDICTIVE-ANALYSIS-DEMENTIA-)
 
-This study investigates dementia susceptibility among urban elderly populations, a group particularly vulnerable due to socio-environmental factors like stress, pollution, and lifestyle. Recognizing limitations in existing research—such as data diversity, model generalizability, and clinical integration—the study employs advanced machine learning techniques such as logistic regression and neural networks to improve early detection and prediction accuracy. The research combines a literature review with analysis of demographic and health data from urban healthcare centers to identify key dementia risk factors.
+This study investigates dementia susceptibility among urban elderly populations, a group particularly vulnerable due to socio-environmental factors like stress, pollution, and lifestyle. RecogniSing limitations in existing research such as data diversity, model generaliSability, and clinical integration. The study employs advanced machine learning techniques such as logistic regression and neural networks to improve early detection and prediction accuracy. The research combines a literature review with analysis of demographic and health data from urban healthcare centers to identify key dementia risk factors.
 ## Project Aim and Objectives
 The primary aim of this research project is to develop a robust predictive Magnetic Resonance Imaging model that can accurately identify and classify dementia in urban populations using advanced machine learning techniques. The study seeks to address the gaps in current dementia research by focusing on the unique environmental, social, and economic factors prevalent in urban settings, which may influence the onset and progression of dementia. To achieve this aim, the following objectives have been established
--	Develop a brain MRI-based model to classify dementia stages in urban populations, aiming to surpass the accuracy of generalized models. This will enhance early detection and targeted treatment for urban individuals.
+-	Develop a brain MRI-based model to classify dementia stages in urban populations, aiming to surpass the accuracy of generaliSed models. This will enhance early detection and targeted treatment for urban individuals.
 - Identify urban-specific risk factors like pollution and social isolation that influence dementia onset and progression. Incorporate these factors into predictive models for better relevance and accuracy.
 -	Investigate disparities in dementia care related to socio-economic status, ethnicity, and cultural factors in urban settings. Identify key factors to address inequities and improve care quality.
--	Create recommendations to enhance urban dementia care through early diagnosis, personalized treatment, and equitable access. Guide policymakers and healthcare providers with evidence-based strategies.
+-	Create recommendations to enhance urban dementia care through early diagnosis, personaliSed treatment, and equitable access. Guide policymakers and healthcare providers with evidence-based strategies.
 ## Key contribution
-This Project contributes significantly to public health by developing predictive models tailored to urban elderly populations, revealing key socio-economic and environmental risk factors for dementia. These insights can inform targeted public health policies, such as reducing pollution and improving mental health services. Clinically, the study enhances early detection and personalized care through predictive analytics, improving diagnosis and treatment outcomes. It also lays the groundwork for future research into the mechanisms of urban-related dementia risk and encourages the application of similar methods to other neurological disorders. Overall, the study offers actionable insights to better understand and address dementia in urban settings.
+This Project contributes significantly to public health by developing predictive models tailored to urban elderly populations, revealing key socio-economic and environmental risk factors for dementia. These insights can inform targeted public health policies, such as reducing pollution and improving mental health services. Clinically, the study enhances early detection and personaliSed care through predictive analytics, improving diagnosis and treatment outcomes. It also lays the groundwork for future research into the mechanisms of urban-related dementia risk and encourages the application of similar methods to other neurological disorders. Overall, the study offers actionable insights to better understand and address dementia in urban settings.
 # Some Visualisation
 ![image](https://github.com/user-attachments/assets/a6aa7430-ec58-4ab5-b213-483cc32e4917)
 

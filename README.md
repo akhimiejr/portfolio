@@ -26,9 +26,9 @@ I am a **Data Analyst** with a strong foundation in mathematics and passion for 
 *Jan 2025 - Present*
 - Led the design and implementation of automated data validation and cleansing pipelines using SQL and Excel, taking full ownership of data quality strategy and reducing errors by 25%. Partnered with business stakeholders to ensure improved data integrity directly supported executive reporting and business intelligence decision-making.
 -	Designed and delivered executive-facing, interactive dashboards in Power BI, enabling senior leaders to access real-time operational and performance insights. Reduced report preparation time by 40% while improving transparency, strategic alignment, and cross-departmental accountability.
--	Owned SQL database optimisation initiatives, restructuring complex query logic and implementing advanced indexing strategies to improve data retrieval efficiency by 30%. Proactively enhanced system performance to support scalable analytics and enterprise-level reporting demands.
+-	Owned SQL database optimisation initiatives, restructuring complex query logic and implementing advanced indexing strategies to improve data retrieval efficiency by 30%. Proactively enhanced system performance to support scalable analytics and Stake holder reporting demands.
 -	Established and championed data governance frameworks, ensuring full regulatory compliance and standardising data management practices across business units. Acted as a key advisor on data security, integrity, and reporting standards, strengthening organisational trust in analytics outputs.
--	Transformed legacy reporting into automated, scalable intelligence solutions that reduced manual effort by 50%, repositioned analytics from reactive reporting to proactive strategic insight, and delivered board-ready recommendations from complex multi-source datasets to guide resource allocation, performance optimisation, and revenue-impacting decisions.
+-	Transformed legacy reporting into automated, scalable intelligence solutions that reduced manual effort by 50%, repositioned analytics from reactive reporting to proactive strategic insight, and delivered board-ready recommendations from complex multi-source datasets to guide resource allocation, performance optimisation, and revenue impacting decisions.
 
 
 ### 🏥 Data Analyst  

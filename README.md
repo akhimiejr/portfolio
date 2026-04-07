@@ -209,7 +209,73 @@ Vendor analysis reveals a high concentration of revenue among a single provider 
 Spatial and operational insights show that trip demand is concentrated in key pickup zones, reinforcing the importance of geographic optimisation in fleet positioning. Additionally, hourly trip distribution highlights predictable peak periods aligned with commuting and evening activity, enabling more effective resource planning, driver allocation, and dynamic pricing strategies. From a customer behaviour perspective, the average fare ($19.12) and average trip distance (3.56 miles) indicate a predominance of short urban trips, while an average tip rate of 18.82% reflects generally positive service experiences and consistent driver earnings potential.
 
 
-## SQL PROJECTS
+### [PROJECT 2 - Full Cycle Workflow: VELOCITY LOGISTICS](https://github.com/akhimiejr/VELOCITY-LOGISTICS/tree/main)
+
+Velocity Logistics is a high-growth last-mile delivery provider specializing in fast
+delivery for grocery chains, pharmacies, restaurants and several businesses.
+Operating a fleet of over 50 delivery vans across multiple metropolitan zones,
+they manage thousands of time-sensitive drop-offs every day.
+The Dispatch Operations team is tasked with ensuring goods remain fresh while
+minimizing fuel costs and delivery delays. They need real-time visibility into fleet
+performance and delay metrics to maintain their "Fresh-on-Arrival" guarantee.
+To maintain their reputation for excellence, the team is focused on achieving a
+98% on-time delivery rate and maintaining a 15 mins guarantee delivery time.
+They aim to provide their dispatchers and regional managers with a high-tech
+operational environment where every delivery van is tracked, and every
+metropolitan zone is monitored for performance.
+
+# Key Contributions to the Project
+
+## 1. End-to-End Data Platform Modernisation
+Led the migration from fragmented spreadsheet-based tracking to a centralised Microsoft Fabric Lakehouse architecture, integrating delivery and driver datasets into a unified, scalable data platform. This eliminated manual processes, improved data integrity, and established a single source of truth for operational analytics.
+
+## 2. Real-Time Operational Intelligence Enablement
+Designed and implemented real-time monitoring capabilities using Microsoft Fabric and Data Activator, enabling instant visibility into delivery performance metrics such as average delay and success rates. This significantly reduced decision latency and empowered dispatch teams to intervene proactively.
+
+## 3. Advanced Data Modelling and Performance Analytics
+Developed a robust relational data model linking delivery and driver entities via primary and foreign keys, optimised for analytical querying. Executed complex SQL transformations to generate actionable KPIs, including delay variance by driver, route zone congestion patterns, and vehicle efficiency benchmarking.
+
+## 4. Executive-Level Dashboard and KPI Framework Development
+Delivered an interactive, insight-driven dashboard highlighting critical metrics such as average delivery time, on-time delivery rate, and zone-level performance. Enabled leadership to identify inefficiencies, prioritise high-risk zones, and align operations with the 15-minute delivery SLA and 98% on-time target.
+
+## 5. Automated Alerting and Proactive Performance Management
+Configured automated alerting mechanisms to trigger real-time notifications when delivery delays exceeded threshold limits (>15 minutes). This introduced a proactive performance management framework, reducing spoilage risk, improving service reliability, and supporting data-driven operational decision-making.
+
+### Tools and Technology Used
+#### Component     -     Tool Used
+- Data Ingestion;-  Microsoft Data Factory 
+- Data Storage;-   OneLake, Lakehouse
+- Data Transformation;-  Spark Notebooks, SQL in Fabric
+- Data Modeling;-   SQL Views, Data Warehouse
+- Visualization;-  Power BI
+- Platform;-  Microsoft Fabric
+
+#  Reporting
+###  Data Modelling 
+- Build a data model linking delivery data and driver data using primary and foreign key
+
+<img src="https://github.com/user-attachments/assets/7cf38969-6172-492f-afdf-d6797c8220f0" width="100%" nalt="Screenshot 2026-04-06 173220" />
+
+- Create a report to track KPIs like average delivery time, delivery success and delivery time based on the driver and location
+
+<img src="https://github.com/user-attachments/assets/715b1b01-9686-4932-95bb-87ed6b43005a"  width="100%" alt="Screenshot 2026-04-06 184234" />
+
+The delivery performance dashboard provides a consolidated view of operational efficiency, centred on the average delay time across drivers, route zones, vehicle types, and delivery outcomes. The average delay of approximately 12 minutes indicates moderate inefficiencies, with noticeable variation across different segments. Driver-level analysis shows a performance gap of nearly four minutes between the highest and lowest average delays, suggesting that individual execution and experience significantly influence outcomes. Route zone insights reveal that urban areas, particularly Downtown and Industrial zones, experience the highest delays, likely due to congestion and operational complexity, while suburban areas perform more efficiently. Also, delivery status trends show that delayed deliveries slightly exceed completed ones, highlighting a need for process improvements, although the failure rate remains relatively low. Vehicle type analysis further indicates that electric vehicles outperform heavier vehicles in terms of delay, reinforcing the importance of aligning vehicle selection with route conditions. Overall, the dashboard highlights opportunities for targeted driver coaching, smarter route planning, and better vehicle allocation to improve delivery performance.
+
+- Leverage Activator to trigger an alert when the performance threshold is breached, AvgDelivery time > 15 mins. Finally append the updated delivery data to cause a trigger
+
+<img width="1899" height="839" alt="Screenshot 2026-04-06 185917" src="https://github.com/user-attachments/assets/3a8963ea-6dc2-4885-b103-4d733798a5aa" />
+
+The image represents the live monitoring and configuration of an alert within the system, specifically tracking the “Average of DelayMin” metric. This setup enables real-time visibility into when delays begin to exceed acceptable thresholds, with the condition configured to trigger when the average delay rises above 15 minutes. The live feed visualization shows how different drivers contribute to alert activations over time, allowing for immediate identification of problem areas as they occur. This was implemented to shift from reactive reporting to proactive monitoring, ensuring that operational issues can be detected and addressed as soon as they emerge rather than after performance has already declined.
+
+<img src="https://github.com/user-attachments/assets/564ad731-b6f4-41e3-8406-cd2241a8f0d6" width="100%" alt="Screenshot 2026-04-06 190128"  />
+
+The above image shows the detailed definition and rule configuration for the same alert, including the monitoring attribute and the threshold condition. It confirms that the alert is actively running and provides a structured way to manage, start, or stop alert rules as needed. This setup was created to enforce a clear performance benchmark and automate oversight of key metrics, reducing the need for manual monitoring. By defining a specific trigger point and linking it to actionable insights, the alert system helps maintain service levels, improves responsiveness to delays, and supports more efficient operational decision-making.
+
+
+
+
+# SQL PROJECTS
 
 ### [Project 1:NextGen Corp](https://github.com/akhimiejr/Employee-Success-Analytics-at-NextGen-Corp./tree/main)
 
@@ -399,7 +465,7 @@ The intended output of this query is a table showing each product category along
 - The insight generated from this analysis informs merchandising and assortment strategy 🚀. Understanding which categories perform best supports decisions around stock allocation, space planning, and category-specific promotions. It also enables the business to align product strategy with customer demand patterns, supporting sustainable revenue growth and improved operational efficiency.
 
 
-## POWER BI PROJECTS
+# POWER BI PROJECTS
 
 ### [Project 1: DESKIFY OFFICE SUPPLIES REPORT](https://github.com/akhimiejr/DESKIFY-OFFICE-SUPPLIES-REPORT)
 
@@ -586,7 +652,7 @@ This Report provides a comprehensive, filter-driven sales analysis for Pure Sip,
 <img src="https://github.com/user-attachments/assets/950294e9-9803-4a0d-b3b7-6ab9aa1f5181" width="100%" alt="Screenshot 2025-12-07 191117" />
 
 
-## TABLEAU PROJECTS
+# TABLEAU PROJECTS
 ### [Project 1: Talent-Pulse Solutions Inc](https://github.com/akhimiejr/Talent-Pulse-Solutions-Inc)
 Talent-Pulse Solutions Inc. is a workforce optimisation organisation focused on improving employee retention, engagement, and overall performance through data-driven decision-making. Facing rising attrition rates and inconsistent workforce satisfaction, the company seeks to leverage HR analytics to identify key drivers of turnover across departments, demographics, tenure, and compensation structures. By analysing factors such as job satisfaction, work-life balance, performance ratings, overtime, promotions, and managerial relationships, Talent-Pulse aims to uncover actionable insights that support strategic workforce planning. Through centralised dashboards and structured data governance, the organisation intends to enhance transparency, strengthen retention strategies, and improve long-term organisational effectiveness.
 # Key Contribution
@@ -601,7 +667,7 @@ The HR Analytics Dashboard highlights an overall attrition rate of 16.36%, with 
 
 <img src="https://github.com/user-attachments/assets/cb5d09a7-ebf9-4c60-bd38-8250af572f2f" width="100%" alt="Screenshot 2026-02-25 152835" />
 
-## EXCEL PROJECTS
+# EXCEL PROJECTS
 ### [Project 1: CAFE-HARMONY-PROJECT](https://github.com/akhimiejr/CAFE-HARMONY-PROJECT-)
 At Café Harmony, we have been navigating a period of impressive growth, which has brought new challenges as we scale to meet increasing customer demand with multiple locations across the city, each with unique customer preferences and performance metrics, maintaining efficient operations and delivering a consistently high-quality experience has become increasingly complex.
 To address these challenges, My team and I proactively applied Root Cause Analysis (RCA) to uncover the underlying sources of inefficiency, implemented Lean Management principles to streamline operations and reduce waste, and leveraged Data-Driven Decision Making (DDDM) to track sales trends and performance metrics across all locations. We also embraced Continuous Improvement (Kaizen) practices to support sustainable growth and long-term operational excellence. Simultaneously, we conducted in-depth customer analysis to refine service delivery and elevate satisfaction, ensuring every customer interaction aligns with Café Harmony’s high standards.
@@ -650,7 +716,7 @@ The image Above displays an Excel workbook transformed into a compact analytics 
 The Cafe Harmony Sales & Performance Dashboard provides a comprehensive insight of the café’s overall business health, showing total sales of £12,589.95 generated from 1003 customers, with 10 main stock items tracked and an average customer rating of 3.05. Monthly sales trends reveal fluctuations throughout the year, peaking in May and dipping in March, while demographic data shows a nearly even distribution across young adults, adults, and elderly customers. Product performance highlights Muffins, Latte, and Iced Tea as top revenue generators, whereas items like Cappuccino and Sandwiches perform less strongly. Stock movement indicates high usage of milk, croissant dough, and iced tea bags, contrasted with increases in sugar and coffee beans. Staff performance displays notable variation, with high achievers like Megan White outperforming others. Rating analysis reveals a predominance of 4- and 5-star reviews despite the moderate overall average. Together, these insights show strong product engagement, steady customer traffic, opportunities for inventory optimisation, and areas for staff development and service improvement.
 
 
-## PYTHON PROJECTS
+# PYTHON PROJECTS
 ### [Project 1: CRIME ANALYSIS REPORT](https://akhimiejr.github.io/CRIME-ANALYSIS-REPORT-FROM/)
 
 The project analyses various crime types, such as violent and non-violent crimes, to understand their frequency, affected demographics, times of occurrence, and geographical distribution. Using Python, Jupyter Notebook, and libraries like pandas, matplotlib, seaborn, scikit-learn, and plotly, the analysis employs machine learning models Logistic Regression, Decision Trees, and Random Forest to predict crime likelihood and identify key contributing factors. The practical applications are significant, enabling financial institutions to prevent crime and allowing the LAPD to optimise patrols based on crime patterns. The study also integrates current crime detection and prevention methodologies, such as statistical analysis, GIS for spatial insights, and real-time alert systems, aiming to enhance public safety and resource efficiency.

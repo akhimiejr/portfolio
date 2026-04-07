@@ -62,7 +62,7 @@ I enjoy working on data-driven projects that uncover trends, improve decision-ma
 
 ## End-to-End Operational Analytics Framework
 
-### [Full Cycle Workflow: NYC Yellow Taxi Analytics](https://github.com/akhimiejr/End-to-End-Operational-Analytics-Framework)
+### [PROJECT 1 - Full Cycle Workflow: NYC Yellow Taxi Analytics](https://github.com/akhimiejr/End-to-End-Operational-Analytics-Framework)
 
 The NYC Yellow Taxi fleet is a key component of New York
 City’s vast transportation network, providing crucial mobility

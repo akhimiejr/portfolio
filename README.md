@@ -58,7 +58,7 @@ indicators, supporting strategic and operational planning
 I enjoy working on data-driven projects that uncover trends, improve decision-making, and solve real-world problems.
 
 # HANDS ON PROJECTS
-[THE BELOW PROJECTS ARE SEGMENTED BY TOOLS USED: MICROSOFT FABRIC, SQL, POWER BI, POSTGRESQL, PYTHON, EXCEL AND TABLEAU]()
+[THE BELOW PROJECTS ARE SEGMENTED BY TOOLS USED: MICROSOFT FABRIC, POWER BI, SQL, POSTGRESQL, PYTHON, EXCEL AND TABLEAU]()
 
 ## End-to-End Operational Analytics Framework
 
@@ -264,7 +264,7 @@ The delivery performance dashboard provides a consolidated view of operational e
 
 - Leverage Activator to trigger an alert when the performance threshold is breached, AvgDelivery time > 15 mins. Finally append the updated delivery data to cause a trigger
 
-<img width="1899" height="839" alt="Screenshot 2026-04-06 185917" src="https://github.com/user-attachments/assets/3a8963ea-6dc2-4885-b103-4d733798a5aa" />
+<img src="https://github.com/user-attachments/assets/3a8963ea-6dc2-4885-b103-4d733798a5aa" width="100%" alt="Screenshot 2026-04-06 185917"  />
 
 The image represents the live monitoring and configuration of an alert within the system, specifically tracking the “Average of DelayMin” metric. This setup enables real-time visibility into when delays begin to exceed acceptable thresholds, with the condition configured to trigger when the average delay rises above 15 minutes. The live feed visualization shows how different drivers contribute to alert activations over time, allowing for immediate identification of problem areas as they occur. This was implemented to shift from reactive reporting to proactive monitoring, ensuring that operational issues can be detected and addressed as soon as they emerge rather than after performance has already declined.
 
@@ -272,8 +272,191 @@ The image represents the live monitoring and configuration of an alert within th
 
 The above image shows the detailed definition and rule configuration for the same alert, including the monitoring attribute and the threshold condition. It confirms that the alert is actively running and provides a structured way to manage, start, or stop alert rules as needed. This setup was created to enforce a clear performance benchmark and automate oversight of key metrics, reducing the need for manual monitoring. By defining a specific trigger point and linking it to actionable insights, the alert system helps maintain service levels, improves responsiveness to delays, and supports more efficient operational decision-making.
 
+# POWER BI PROJECTS
+
+### [Project 1: DESKIFY OFFICE SUPPLIES REPORT](https://github.com/akhimiejr/DESKIFY-OFFICE-SUPPLIES-REPORT)
+
+Deskify Office Supply Co. is a leading retailer
+specialising in office supplies,
+technology/computer accessories, and furniture.
+With a diverse product range catering to both
+individual consumers and businesses, They have
+experienced significant growth over the past four
+years. Deskify Office Supply Co. is dedicated to
+providing high-quality office essentials,
+technology accessories, and furniture with a focus
+on reliability, efficiency, and customer
+satisfaction. 
+# Key Contributions
+## 1. End-to-End Data Interpretation and Insight Generation:
+I conducted a full review of the dataset and dashboards, extracting key trends, patterns, and performance gaps across products, customers, regions, and operational processes. This included interpreting metrics such as revenue performance, profit margin, and order volume to form actionable analysis aligned with business priorities.
+## 2. Critical Performance Evaluation Across Business Dimensions:
+A structured assessment was completed across major analytical categories including product profitability, customer segmentation, geographic distribution, shipping behavior, and seasonal trends. This allowed for a comprehensive understanding of strengths, weaknesses, and operational inefficiencies affecting overall performance.
+## 3. Strategic Improvement Recommendations:
+I translated analytical findings into targeted business recommendations addressing profitability optimisation, logistics cost control, product mix refinement, customer retention, and market expansion. These recommendations were aligned with practical business applications and designed to support margin improvement and growth strategy.
+## 4. Data Storytelling and Insight Summarisation:
+The analysis was refined into clear, concise narrative summaries suitable for stakeholder communication. Insights were structured to support executive-level decision-making, ensuring the data could be easily understood, prioritised, and used to inform next steps across operational and strategic functions.
+## 5. Model and Structure Review for Analytics Maturity:
+Beyond visual insights, I evaluated the underlying Power BI data model, confirming appropriate schema structure, relationships, and calculated measure organisation. This contribution supports scalability, maintainability, and future enhancements to reporting capabilities and analytical rigor.
+# Data Modelling 
+The data model represents a well-structured star schema centered on a single fact table, TransactionFact, which stores operational data such as revenue, profit, quantity, order dates, product IDs, and customer IDs. This fact table connects to multiple supporting dimension tables, including CustomerDim, ProductDim, OrderDim, LocationDim, and CalendarDim, each providing descriptive attributes for filtering, categorisation, and analysis. All relationships are appropriately configured as one-to-many from dimensions to the fact table with single-direction filtering, which aligns with best practices for analytical reporting and avoids ambiguity. A separate "Calculated Measures" table is included, demonstrating strong governance by centralising DAX calculations for maintainability. Overall, the model is clean, scalable, and optimised for Power BI reporting, though future refinements such as hierarchies, surrogate keys, and extended cost structures could further enhance analytical depth and long-term scalability.
 
 
+<img src="https://github.com/user-attachments/assets/25f41cea-6431-4b3d-86ee-375af66ea137" width="100%" alt="Sales Performance Dashboard Screenshot" />
+
+
+# Dashboard Reporting
+## Product Performance Analysis
+Deskify’s product performance shows strong revenue contribution from certain categories, with Furniture generating the majority of total profit at 985.36K (64.73%), followed by Office Supplies at 331.03K and Technology at 205.95K. Subcategory insight reveals key performers such as binders, paper, and furnishings, while the copier category operates at a loss of -16K, suggesting pricing issues, warranty expense, or high logistics overhead. Top individual products—including Eldon ClusterMat and Panasonic models—highlight a dependency on a small set of profitable SKUs, creating product concentration risk. Operational data further indicates significant shipping cost pressure due to reliance on air freight (nearly 90% of orders), which likely diminishes margins and limits scale efficiency. Seasonal fluctuations in profitability also suggest the need for improved forecasting, inventory planning, and promotional timing. Overall, strengthening the product portfolio through cost optimisation, renegotiated vendor terms, improved shipping strategy, and a focus on high-margin categories represents a key opportunity to unlock higher profitability.
+
+<img src="https://github.com/user-attachments/assets/a76f588c-6e5d-41a4-92a2-ffcd3fa046fc" width="100%" alt="Screenshot 2025-11-28 165734" />
+
+## Customer performance Analysis
+Customer performance analysis reveals that profitability is concentrated among a small subset of high-value buyers, such as Emily Phan (34.01K), Deborah Brumfield (31.12K), and Grant Carroll (27.98K), introducing churn vulnerability if these customers reduce or discontinue purchases. Segment-level insights show the Corporate segment contributes the highest share of profit at 527.1K, while Home Office, Consumer, and Small Business segments collectively represent a significant portion, confirming that Deskify operates in both B2B and B2C markets. Geographic performance is similarly uneven, with the Northwest region generating the highest profit at 569,398, while regions such as Yukon and Quebec remain significantly underdeveloped. These patterns signal growth opportunities through targeted marketing, regional penetration strategies, and customer loyalty initiatives. Enhancing segmentation tactics, reducing reliance on top contributors, and activating underperforming markets could diversify revenue streams and strengthen customer-driven profitability over time.
+
+
+<img src="https://github.com/user-attachments/assets/77d72a84-ac2a-404d-9a7d-23a12878133e" width="100%" alt="Screenshot 2025-11-28 165820"  />
+
+### [Project 2: DREAMY BITES SALES ANALYSIS](https://github.com/akhimiejr/Dreamy-Bites)
+Dreamy Bites is a premium cookie brand specialising in a variety of delectable treats, including chocolate chip, oatmeal raisin,and other gourmet cookies. The company has earned a reputation for delivering top-notch products to retailers and customers worldwide. As the business grows, analysing sales trends, customer behavior, and product performance has become critical for strategic decision-making.
+# Key Contributions
+## 1. Multi-Source Data Integration and Modelling
+
+Successfully consolidated fragmented business data from PDF, CSV, and Google Sheets into a single, structured Power BI data model. Designed a star schema with a central Orders fact table and supporting Customer and Product dimension tables, ensuring clean relationships, referential integrity, and scalable analytics.
+
+## 2. Creation of Business-Ready Metrics Using DAX
+
+Developed robust DAX measures to calculate key performance indicators such as Total Profit, Total Expenses, Quantity Sold, Number of Orders, and Profit Targets. Isolated calculations within a dedicated Measures table to improve model readability, performance, and reusability across multiple reports.
+
+## 3. End-to-End Sales and Profitability Analysis
+
+Delivered in-depth analysis of sales performance across products, customers, and time, enabling the business to identify high-margin products, top-performing customers, and loss-making areas. Visual comparisons of expenses versus profit provided clear insight into cost efficiency and pricing strategy.
+
+## 4. Customer and Regional Insight Generation
+
+Analysed customer purchasing behaviour and demographics by integrating customer location data with order performance. Built geographic and customer-level visuals to highlight regional profit concentration, order frequency, and volume contribution, supporting data-driven customer segmentation and targeted growth strategies.
+
+## 5. Interactive Dashboard Design with Slicers
+
+Designed intuitive, executive-level Power BI dashboards using slicers for Product and Customer, allowing stakeholders to dynamically filter and explore data. Ensured consistent visual hierarchy and storytelling across Customer and Product analysis views to enhance usability and decision-making.
+
+## 6. Actionable Reporting for Strategic Decision-Making
+
+Translated raw transactional data into actionable business insights that support inventory planning, product optimisation, and customer prioritisation. Enabled stakeholders to monitor trends over a 16-month period, identify seasonality, and align operational decisions with profitability and growth objectives.
+
+# Data Modelling 
+The data model shows a classic star schema, with the Order_Fact table at the centre capturing transactional data such as Order ID, Date, Expenses and Product. This fact table is linked via one-to-many relationships to the Customers_Dim table (containing customer attributes such as name, location and contact details) and the Product_Dim table (holding product types and unit-level production and selling costs). A dedicated Measures table is used to store calculated metrics, improving model clarity, reusability, and performance. This structure enables consistent filtering across visuals and underpins the slicers used in both dashboards.
+
+<img src="https://github.com/user-attachments/assets/56c768c0-5a4b-4be0-b7bd-e98c65b2f3ee" width="100%" alt="Screenshot 2026-01-08 143222" />
+
+# Dashboards Reporting
+## Product Performance Analysis
+The Product Analysis dashboard shifts focus to product performance while maintaining consistency in design and metrics. KPI cards summarise Total Profit (£3M), Total Orders (700), Total Expenses (£1.97M) and Number of Products (6), alongside order contribution metrics. A combined area and line chart tracks monthly total profit and quantity sold, revealing seasonal patterns and peak performance periods. Product-level bar charts compare expenses versus profit by product, highlighting cost efficiency and margin differences between cookie types. Additional visuals show quantity sold by product and rank products by total volume, making it easy to identify best-selling and underperforming items. A Name slicer allows users to filter the dashboard by customer, ensuring seamless cross-analysis between customer and product perspectives.
+
+<img src="https://github.com/user-attachments/assets/f77a5c4b-0a56-4096-a0c9-cd101e039837" width="100%" alt="Screenshot 2026-01-08 143517"/>
+
+## Customer Performance Analysis
+The Customer Analysis dashboard focuses on customer-level performance. KPI cards at the top summarise headline metrics, including Total Profit (£3M), Total Orders (700), Total Customers (5) and Total Expenses (£1.97M). Gauge visuals provide immediate context by comparing Customer Profit against a target and showing Total Quantity Sold (1,125,824 units) against an upper benchmark. A geographical map visual displays customer profit by state, highlighting regional concentration and performance differences across the United States. Below, bar charts break down total expenses versus profit by customer, clearly illustrating margin performance for each customer, while additional visuals show quantity sold by customer name and number of orders per customer, allowing easy identification of high-volume and high-frequency buyers. A Product slicer enables users to dynamically filter all visuals to analyse customer behaviour for specific products.
+
+<img src="https://github.com/user-attachments/assets/faf26447-5613-4d86-b68b-4a7e0090f4d6" width="100%" alt="Screenshot 2026-01-08 143448" />
+
+
+### [Project 3: TRI-FLEET INDUSTRIES ANALYTICS](https://github.com/akhimiejr/Tri-Fleet-Industries-)
+
+Tri-Fleet Industries is a specialised global retailer focused on vintage and classic vehicles, including cars, trucks, buses, trains, motorcycles, ships, and other collectible transport assets. The company serves a broad, high-value clientele across international markets, offering a distinctive portfolio of rare and sought-after vehicles. Through its diverse product range and worldwide reach, Tri-Fleet Industries operates within a niche market that combines heritage value with premium retail demand, positioning the business as a key provider of specialist and collectible vehicles globally.
+# Key Contributions
+
+## 1. Development of an End-to-End Analytics Dashboard
+Designed and delivered a comprehensive Power BI dashboard that consolidates sales performance across products, customers, geographies, and time, enabling stakeholders to gain a clear, single-source view of business performance.
+
+## 2. Product and Customer Performance Analysis
+Analysed product categories and customer sales patterns to identify key revenue drivers, concentration risks, and underperforming segments, providing insights to support product portfolio optimisation and customer diversification strategies.
+
+## 3. Identification of Geographic and Seasonal Trends
+Evaluated sales distribution by country and analysed time-based trends to uncover regional performance gaps and seasonal fluctuations, supporting more accurate forecasting, market expansion planning, and inventory alignment.
+
+## 4. Implementation of Data Security and Governance
+Configured Row-Level Security (RLS) roles to restrict data visibility by territory, ensuring secure, role-appropriate access to sensitive sales data and aligning the solution with data governance best practices.
+
+## 5. Report Deployment and Stakeholder Enablement
+Published the report to the Power BI Service, created a dedicated workspace and app for controlled sharing, and structured the dashboard for usability, ensuring stakeholders could easily access, interact with, and act on the insights provided.
+# Dashboards Reporting
+The Tri-Fleet Industries Analytics dashboard provides a comprehensive, data-driven overview of sales performance across products, customers, locations, and time, enabling stakeholders to assess overall business health, identify key revenue drivers, and uncover risks and opportunities through high-level KPIs and interactive analysis. With total sales of $10.03M from 99,067 units sold, the business demonstrates strong demand and commercial performance, although further margin analysis is required to fully assess profitability efficiency. Sales are heavily driven by Classic Cars, which significantly outperform other product lines, indicating both a core strength and a concentration risk, while weaker categories such as Trains may require repositioning or strategic review. Revenue concentration is also evident among top customers, particularly Euro Shopping Channel and Mini Gifts Distributors, highlighting the importance of customer diversification to reduce reliance on a small number of key accounts. Geographically, sales are concentrated in North America and Europe, with limited presence in emerging markets, presenting opportunities for expansion subject to logistical and regulatory considerations. Sales trends reveal clear seasonality, with pronounced peaks and troughs suggesting opportunities for improved forecasting, inventory planning, and targeted marketing. Overall, while Tri-Fleet Industries demonstrates strong sales performance, addressing product, customer, and regional concentration alongside seasonal volatility will be critical to achieving sustainable long-term growth.
+
+<img  src="https://github.com/user-attachments/assets/59d6aa95-9c0a-4976-993f-54f6d045ed7c" width="100%" alt="Screenshot 2025-12-16 110611" />
+
+# Row-Level Security
+
+# APAC MANAGER
+
+<img src="https://github.com/user-attachments/assets/50258e30-03ad-4420-a9ba-4c010fae2954"  width="100%" alt="Screenshot 2025-12-16 120336" />
+
+# EMEA MANAGER
+
+<img src="https://github.com/user-attachments/assets/52898bca-03b8-4de0-bb84-2e66fe852666" width="100%" alt="Screenshot 2025-12-16 120402" />
+
+# JAPAN MANAGER
+
+<img src="https://github.com/user-attachments/assets/c5b50ba0-0a9d-4e68-9291-3b664f63f60d"  width="100%" alt="Screenshot 2025-12-16 120641"  />
+
+
+# NORTH AMERICA MANAGER
+
+<img src="https://github.com/user-attachments/assets/37323faf-b013-46d8-b1f1-95c8fa452933" width="100%" alt="Screenshot 2025-12-16 120706" />
+
+
+### [Project 4: GLOBAL INSIGHT ANALYTICS](https://github.com/akhimiejr/GLOBAL-INSIGHT-ANALYTICS)
+This report presents a comprehensive global demographic analysis, illustrating how the world population has evolved over time, how it is geographically distributed today, and how it is segmented by major religious affiliations. The structure of the report allows the reader to develop an understanding of long-term trends, present-day population concentration, and underlying cultural composition. Power BI has been used to extract data directly from online sources, enabling automation, periodic refresh, and continuous accuracy as global data updates. The design and analytical flow position the report as both a reference tool and a dashboard for ongoing monitoring.
+# Key Contributions
+## 1. Sourced and Extracted Live Global Demographic Data
+Identified reliable online data repositories, including global population and demographic databases, and successfully connected Power BI to these sources using the Web Connector to automate data import and retrieval.
+
+## 2. Cleaned, Transformed, and Standardised Raw Data for Accuracy
+Used Power Query to remove duplicates, correct formatting inconsistencies, apply uniform data types, and merge fragmented datasets, ensuring all values were reliable, analysable, and aligned across time periods and categories.
+
+## 3. Developed a Robust Analytical Data Model and Calculation Framework
+Designed relationships between country-level, regional, and category-based demographic tables and built DAX measures to calculate totals, percentages, projections, and comparative metrics essential for meaningful insight.
+
+## 4. Designed Clear, Insight-Driven Visualisations and Layout Structure
+Applied best practices in data visualisation to build maps, trend charts, and comparative analysis visuals that clearly communicated historical growth patterns, regional distribution, and cultural population characteristics.
+
+## 5. Implemented Scheduled Refresh and Insight Interpretation for Decision Support
+Enabled automated updates through Power BI Service so the dashboard reflects the latest available data over time, and provided narrative insight and interpretation, transforming raw data into a meaningful analytical tool for ongoing use.
+# Web Page
+https://www.worldometers.info/world-population/
+
+<img src="https://github.com/user-attachments/assets/c6a86232-3e3b-4ca8-a2ec-0479f1bd62d7" width="100%" alt="Screenshot 2025-12-07 180038" />
+
+# Dashboard Reporting
+The report demonstrates effective use of Power BI’s online data connectivity features. Online data sources could have been accessed through the Web connector in Power Query, enabling extraction from APIs, publicly available data portals, or structured web tables such as the World Bank datasets, United Nations population tables, or Pew Research data. Transformations would have included filtering, normalising values, and establishing data types suitable for calculations and modelling. Data relationships would then be maintained in a structured model, potentially using a star schema for clarity and efficiency. Measures and aggregations were likely written using DAX to compute totals, percentages, and growth indicators. Once published to Power BI Service, scheduled refresh functionality ensures that the report updates automatically in alignment with new data releases. The report is visually clear and logically structured. It progresses from historical context through present-day geographic distribution and finally into cultural demographic segmentation. The colour consistency, geographic mapping, clean labelling, and strong visual hierarchy contribute to professionalism and readability. The report format is scalable and capable of supporting additional views such as forecast projections, age structure analysis, or socio-economic overlays.
+
+<img src="https://github.com/user-attachments/assets/275ad198-30c6-475f-9689-35dc7166a9ee"  width="100%" alt="Screenshot 2025-12-07 173211"  />
+
+### [Project 5:PURE SIP'S BEVERSGES](https://github.com/akhimiejr/PureSip-Beverages)
+PureSip Beverages is a growing beverage distribution company supplying popular brands such as Coke, Fanta, Sprite, and other leading soft drinks to major retailers including Costco, Walgreens, Target, and Walmart. As the organisation expanded, sales reporting became increasingly fragmented due to reliance on separate spreadsheets managed by regional managers. To address challenges related to data consolidation, reporting accuracy, and analytical capability, PureSip implemented a Power BI solution using a centralised folder connection and automated refresh, enabling real-time visibility of performance across all locations.
+
+# Key Contributions
+
+## 1. Centralised Data Management
+PureSip Beverages implemented a robust shared folder structure accessible to all relevant stakeholders within the organisation. This centralised repository serves as the single source of truth for all regional sales data, replacing fragmented spreadsheets managed individually by regional managers. By consolidating all sales files into a unified, organised structure, the company eliminated duplication of effort, simplified data governance, and ensured that all teams work from consistent, up-to-date information.
+
+## 2. Automated Data Refresh and Integration
+Leveraging Power BI’s folder connection capability, the company automated the detection and integration of new sales spreadsheets as soon as they are uploaded to the shared folder. This automation removes the need for manual data consolidation, significantly reducing the time and effort required to prepare reports. The continuous, real-time data refresh ensures that decision-makers always have access to the most current information, enabling timely responses to market trends and sales opportunities.
+
+## 3. Enhanced Data Accuracy and Consistency
+By standardising the data collection process and automating integration, PureSip reduced errors arising from inconsistent spreadsheet formats, manual entry mistakes, and data duplication. This approach ensures high-quality, reliable data across all retailers and regions. Consistent data improves confidence in reports, reduces the risk of misinformed decisions, and allows management to track performance trends with greater accuracy.
+
+## 4. Improved Reporting and Analytics Capability
+The transition from static spreadsheets to Power BI enabled advanced reporting and analytical capabilities that were previously unattainable. The company can now leverage interactive dashboards, trend analysis, geographic visualisation, and performance comparisons across regions. These capabilities provide actionable insights into sales performance, help identify growth opportunities, and support strategic decision-making with clear, data-driven evidence.
+
+## 5.Operational Efficiency and Scalability
+Automating the data integration and reporting process freed staff from repetitive manual tasks such as consolidating spreadsheets and reconciling errors. This operational efficiency allows teams to focus on higher-value activities, such as analysing trends or developing sales strategies. Furthermore, the system is designed to scale easily: as PureSip expands to additional regions or retailers, the same folder structure and Power BI connection can accommodate new data without requiring structural changes, ensuring long-term sustainability of the reporting framework.
+
+# Dashboard Reporting
+This Report provides a comprehensive, filter-driven sales analysis for Pure Sip, incorporating slicers for Beverage Brand and Contact to allow users to tailor the view to specific product lines or customer groups. The KPI panel shows current performance against targets, with sales of £238,850, which is £11,150 below the £250,000 goal (–4.46%). Total sales amount to £1,213,018, supported by 2,309,850 units sold across four retailers. The sales trend visual illustrates month-by-month performance, rising from £82.1K in January to a peak of £116K in August, before stabilising around £115K in December. Below, regional analysis maps sales across key North American states, while brand performance charts identify Dasani Water, Coca-Cola, and Diet Coke as the leading contributors. Retailer analysis highlights Walmart as the top performer with £391.8K, followed by Costco, Walgreens, and Target. Together with the interactive slicers, the dashboard enables dynamic exploration of trends, channel contributions, and performance variations, supporting informed decision-making and targeted strategy refinement.
+
+
+<img src="https://github.com/user-attachments/assets/950294e9-9803-4a0d-b3b7-6ab9aa1f5181" width="100%" alt="Screenshot 2025-12-07 191117" />
 
 # SQL PROJECTS
 
@@ -463,193 +646,6 @@ The expected output is a ranked list of customers showing customer identifiers, 
 
 The intended output of this query is a table showing each product category alongside its total net sales 💷. This allows for straightforward comparison of category performance across the retail estate.
 - The insight generated from this analysis informs merchandising and assortment strategy 🚀. Understanding which categories perform best supports decisions around stock allocation, space planning, and category-specific promotions. It also enables the business to align product strategy with customer demand patterns, supporting sustainable revenue growth and improved operational efficiency.
-
-
-# POWER BI PROJECTS
-
-### [Project 1: DESKIFY OFFICE SUPPLIES REPORT](https://github.com/akhimiejr/DESKIFY-OFFICE-SUPPLIES-REPORT)
-
-Deskify Office Supply Co. is a leading retailer
-specialising in office supplies,
-technology/computer accessories, and furniture.
-With a diverse product range catering to both
-individual consumers and businesses, They have
-experienced significant growth over the past four
-years. Deskify Office Supply Co. is dedicated to
-providing high-quality office essentials,
-technology accessories, and furniture with a focus
-on reliability, efficiency, and customer
-satisfaction. 
-# Key Contributions
-## 1. End-to-End Data Interpretation and Insight Generation:
-I conducted a full review of the dataset and dashboards, extracting key trends, patterns, and performance gaps across products, customers, regions, and operational processes. This included interpreting metrics such as revenue performance, profit margin, and order volume to form actionable analysis aligned with business priorities.
-## 2. Critical Performance Evaluation Across Business Dimensions:
-A structured assessment was completed across major analytical categories including product profitability, customer segmentation, geographic distribution, shipping behavior, and seasonal trends. This allowed for a comprehensive understanding of strengths, weaknesses, and operational inefficiencies affecting overall performance.
-## 3. Strategic Improvement Recommendations:
-I translated analytical findings into targeted business recommendations addressing profitability optimisation, logistics cost control, product mix refinement, customer retention, and market expansion. These recommendations were aligned with practical business applications and designed to support margin improvement and growth strategy.
-## 4. Data Storytelling and Insight Summarisation:
-The analysis was refined into clear, concise narrative summaries suitable for stakeholder communication. Insights were structured to support executive-level decision-making, ensuring the data could be easily understood, prioritised, and used to inform next steps across operational and strategic functions.
-## 5. Model and Structure Review for Analytics Maturity:
-Beyond visual insights, I evaluated the underlying Power BI data model, confirming appropriate schema structure, relationships, and calculated measure organisation. This contribution supports scalability, maintainability, and future enhancements to reporting capabilities and analytical rigor.
-# Data Modelling 
-The data model represents a well-structured star schema centered on a single fact table, TransactionFact, which stores operational data such as revenue, profit, quantity, order dates, product IDs, and customer IDs. This fact table connects to multiple supporting dimension tables, including CustomerDim, ProductDim, OrderDim, LocationDim, and CalendarDim, each providing descriptive attributes for filtering, categorisation, and analysis. All relationships are appropriately configured as one-to-many from dimensions to the fact table with single-direction filtering, which aligns with best practices for analytical reporting and avoids ambiguity. A separate "Calculated Measures" table is included, demonstrating strong governance by centralising DAX calculations for maintainability. Overall, the model is clean, scalable, and optimised for Power BI reporting, though future refinements such as hierarchies, surrogate keys, and extended cost structures could further enhance analytical depth and long-term scalability.
-
-
-<img src="https://github.com/user-attachments/assets/25f41cea-6431-4b3d-86ee-375af66ea137" width="100%" alt="Sales Performance Dashboard Screenshot" />
-
-
-# Dashboard Reporting
-## Product Performance Analysis
-Deskify’s product performance shows strong revenue contribution from certain categories, with Furniture generating the majority of total profit at 985.36K (64.73%), followed by Office Supplies at 331.03K and Technology at 205.95K. Subcategory insight reveals key performers such as binders, paper, and furnishings, while the copier category operates at a loss of -16K, suggesting pricing issues, warranty expense, or high logistics overhead. Top individual products—including Eldon ClusterMat and Panasonic models—highlight a dependency on a small set of profitable SKUs, creating product concentration risk. Operational data further indicates significant shipping cost pressure due to reliance on air freight (nearly 90% of orders), which likely diminishes margins and limits scale efficiency. Seasonal fluctuations in profitability also suggest the need for improved forecasting, inventory planning, and promotional timing. Overall, strengthening the product portfolio through cost optimisation, renegotiated vendor terms, improved shipping strategy, and a focus on high-margin categories represents a key opportunity to unlock higher profitability.
-
-<img src="https://github.com/user-attachments/assets/a76f588c-6e5d-41a4-92a2-ffcd3fa046fc" width="100%" alt="Screenshot 2025-11-28 165734" />
-
-## Customer performance Analysis
-Customer performance analysis reveals that profitability is concentrated among a small subset of high-value buyers, such as Emily Phan (34.01K), Deborah Brumfield (31.12K), and Grant Carroll (27.98K), introducing churn vulnerability if these customers reduce or discontinue purchases. Segment-level insights show the Corporate segment contributes the highest share of profit at 527.1K, while Home Office, Consumer, and Small Business segments collectively represent a significant portion, confirming that Deskify operates in both B2B and B2C markets. Geographic performance is similarly uneven, with the Northwest region generating the highest profit at 569,398, while regions such as Yukon and Quebec remain significantly underdeveloped. These patterns signal growth opportunities through targeted marketing, regional penetration strategies, and customer loyalty initiatives. Enhancing segmentation tactics, reducing reliance on top contributors, and activating underperforming markets could diversify revenue streams and strengthen customer-driven profitability over time.
-
-
-<img src="https://github.com/user-attachments/assets/77d72a84-ac2a-404d-9a7d-23a12878133e" width="100%" alt="Screenshot 2025-11-28 165820"  />
-
-### [Project 2: DREAMY BITES SALES ANALYSIS](https://github.com/akhimiejr/Dreamy-Bites)
-Dreamy Bites is a premium cookie brand specialising in a variety of delectable treats, including chocolate chip, oatmeal raisin,and other gourmet cookies. The company has earned a reputation for delivering top-notch products to retailers and customers worldwide. As the business grows, analysing sales trends, customer behavior, and product performance has become critical for strategic decision-making.
-# Key Contributions
-## 1. Multi-Source Data Integration and Modelling
-
-Successfully consolidated fragmented business data from PDF, CSV, and Google Sheets into a single, structured Power BI data model. Designed a star schema with a central Orders fact table and supporting Customer and Product dimension tables, ensuring clean relationships, referential integrity, and scalable analytics.
-
-## 2. Creation of Business-Ready Metrics Using DAX
-
-Developed robust DAX measures to calculate key performance indicators such as Total Profit, Total Expenses, Quantity Sold, Number of Orders, and Profit Targets. Isolated calculations within a dedicated Measures table to improve model readability, performance, and reusability across multiple reports.
-
-## 3. End-to-End Sales and Profitability Analysis
-
-Delivered in-depth analysis of sales performance across products, customers, and time, enabling the business to identify high-margin products, top-performing customers, and loss-making areas. Visual comparisons of expenses versus profit provided clear insight into cost efficiency and pricing strategy.
-
-## 4. Customer and Regional Insight Generation
-
-Analysed customer purchasing behaviour and demographics by integrating customer location data with order performance. Built geographic and customer-level visuals to highlight regional profit concentration, order frequency, and volume contribution, supporting data-driven customer segmentation and targeted growth strategies.
-
-## 5. Interactive Dashboard Design with Slicers
-
-Designed intuitive, executive-level Power BI dashboards using slicers for Product and Customer, allowing stakeholders to dynamically filter and explore data. Ensured consistent visual hierarchy and storytelling across Customer and Product analysis views to enhance usability and decision-making.
-
-## 6. Actionable Reporting for Strategic Decision-Making
-
-Translated raw transactional data into actionable business insights that support inventory planning, product optimisation, and customer prioritisation. Enabled stakeholders to monitor trends over a 16-month period, identify seasonality, and align operational decisions with profitability and growth objectives.
-
-# Data Modelling 
-The data model shows a classic star schema, with the Order_Fact table at the centre capturing transactional data such as Order ID, Date, Expenses and Product. This fact table is linked via one-to-many relationships to the Customers_Dim table (containing customer attributes such as name, location and contact details) and the Product_Dim table (holding product types and unit-level production and selling costs). A dedicated Measures table is used to store calculated metrics, improving model clarity, reusability, and performance. This structure enables consistent filtering across visuals and underpins the slicers used in both dashboards.
-
-<img src="https://github.com/user-attachments/assets/56c768c0-5a4b-4be0-b7bd-e98c65b2f3ee" width="100%" alt="Screenshot 2026-01-08 143222" />
-
-# Dashboards Reporting
-## Product Performance Analysis
-The Product Analysis dashboard shifts focus to product performance while maintaining consistency in design and metrics. KPI cards summarise Total Profit (£3M), Total Orders (700), Total Expenses (£1.97M) and Number of Products (6), alongside order contribution metrics. A combined area and line chart tracks monthly total profit and quantity sold, revealing seasonal patterns and peak performance periods. Product-level bar charts compare expenses versus profit by product, highlighting cost efficiency and margin differences between cookie types. Additional visuals show quantity sold by product and rank products by total volume, making it easy to identify best-selling and underperforming items. A Name slicer allows users to filter the dashboard by customer, ensuring seamless cross-analysis between customer and product perspectives.
-
-<img src="https://github.com/user-attachments/assets/f77a5c4b-0a56-4096-a0c9-cd101e039837" width="100%" alt="Screenshot 2026-01-08 143517"/>
-
-## Customer Performance Analysis
-The Customer Analysis dashboard focuses on customer-level performance. KPI cards at the top summarise headline metrics, including Total Profit (£3M), Total Orders (700), Total Customers (5) and Total Expenses (£1.97M). Gauge visuals provide immediate context by comparing Customer Profit against a target and showing Total Quantity Sold (1,125,824 units) against an upper benchmark. A geographical map visual displays customer profit by state, highlighting regional concentration and performance differences across the United States. Below, bar charts break down total expenses versus profit by customer, clearly illustrating margin performance for each customer, while additional visuals show quantity sold by customer name and number of orders per customer, allowing easy identification of high-volume and high-frequency buyers. A Product slicer enables users to dynamically filter all visuals to analyse customer behaviour for specific products.
-
-<img src="https://github.com/user-attachments/assets/faf26447-5613-4d86-b68b-4a7e0090f4d6" width="100%" alt="Screenshot 2026-01-08 143448" />
-
-
-### [Project 3: TRI-FLEET INDUSTRIES ANALYTICS](https://github.com/akhimiejr/Tri-Fleet-Industries-)
-
-Tri-Fleet Industries is a specialised global retailer focused on vintage and classic vehicles, including cars, trucks, buses, trains, motorcycles, ships, and other collectible transport assets. The company serves a broad, high-value clientele across international markets, offering a distinctive portfolio of rare and sought-after vehicles. Through its diverse product range and worldwide reach, Tri-Fleet Industries operates within a niche market that combines heritage value with premium retail demand, positioning the business as a key provider of specialist and collectible vehicles globally.
-# Key Contributions
-
-## 1. Development of an End-to-End Analytics Dashboard
-Designed and delivered a comprehensive Power BI dashboard that consolidates sales performance across products, customers, geographies, and time, enabling stakeholders to gain a clear, single-source view of business performance.
-
-## 2. Product and Customer Performance Analysis
-Analysed product categories and customer sales patterns to identify key revenue drivers, concentration risks, and underperforming segments, providing insights to support product portfolio optimisation and customer diversification strategies.
-
-## 3. Identification of Geographic and Seasonal Trends
-Evaluated sales distribution by country and analysed time-based trends to uncover regional performance gaps and seasonal fluctuations, supporting more accurate forecasting, market expansion planning, and inventory alignment.
-
-## 4. Implementation of Data Security and Governance
-Configured Row-Level Security (RLS) roles to restrict data visibility by territory, ensuring secure, role-appropriate access to sensitive sales data and aligning the solution with data governance best practices.
-
-## 5. Report Deployment and Stakeholder Enablement
-Published the report to the Power BI Service, created a dedicated workspace and app for controlled sharing, and structured the dashboard for usability, ensuring stakeholders could easily access, interact with, and act on the insights provided.
-# Dashboards Reporting
-The Tri-Fleet Industries Analytics dashboard provides a comprehensive, data-driven overview of sales performance across products, customers, locations, and time, enabling stakeholders to assess overall business health, identify key revenue drivers, and uncover risks and opportunities through high-level KPIs and interactive analysis. With total sales of $10.03M from 99,067 units sold, the business demonstrates strong demand and commercial performance, although further margin analysis is required to fully assess profitability efficiency. Sales are heavily driven by Classic Cars, which significantly outperform other product lines, indicating both a core strength and a concentration risk, while weaker categories such as Trains may require repositioning or strategic review. Revenue concentration is also evident among top customers, particularly Euro Shopping Channel and Mini Gifts Distributors, highlighting the importance of customer diversification to reduce reliance on a small number of key accounts. Geographically, sales are concentrated in North America and Europe, with limited presence in emerging markets, presenting opportunities for expansion subject to logistical and regulatory considerations. Sales trends reveal clear seasonality, with pronounced peaks and troughs suggesting opportunities for improved forecasting, inventory planning, and targeted marketing. Overall, while Tri-Fleet Industries demonstrates strong sales performance, addressing product, customer, and regional concentration alongside seasonal volatility will be critical to achieving sustainable long-term growth.
-
-<img  src="https://github.com/user-attachments/assets/59d6aa95-9c0a-4976-993f-54f6d045ed7c" width="100%" alt="Screenshot 2025-12-16 110611" />
-
-# Row-Level Security
-
-# APAC MANAGER
-
-<img src="https://github.com/user-attachments/assets/50258e30-03ad-4420-a9ba-4c010fae2954"  width="100%" alt="Screenshot 2025-12-16 120336" />
-
-# EMEA MANAGER
-
-<img src="https://github.com/user-attachments/assets/52898bca-03b8-4de0-bb84-2e66fe852666" width="100%" alt="Screenshot 2025-12-16 120402" />
-
-# JAPAN MANAGER
-
-<img src="https://github.com/user-attachments/assets/c5b50ba0-0a9d-4e68-9291-3b664f63f60d"  width="100%" alt="Screenshot 2025-12-16 120641"  />
-
-
-# NORTH AMERICA MANAGER
-
-<img src="https://github.com/user-attachments/assets/37323faf-b013-46d8-b1f1-95c8fa452933" width="100%" alt="Screenshot 2025-12-16 120706" />
-
-
-### [Project 4: GLOBAL INSIGHT ANALYTICS](https://github.com/akhimiejr/GLOBAL-INSIGHT-ANALYTICS)
-This report presents a comprehensive global demographic analysis, illustrating how the world population has evolved over time, how it is geographically distributed today, and how it is segmented by major religious affiliations. The structure of the report allows the reader to develop an understanding of long-term trends, present-day population concentration, and underlying cultural composition. Power BI has been used to extract data directly from online sources, enabling automation, periodic refresh, and continuous accuracy as global data updates. The design and analytical flow position the report as both a reference tool and a dashboard for ongoing monitoring.
-# Key Contributions
-## 1. Sourced and Extracted Live Global Demographic Data
-Identified reliable online data repositories, including global population and demographic databases, and successfully connected Power BI to these sources using the Web Connector to automate data import and retrieval.
-
-## 2. Cleaned, Transformed, and Standardised Raw Data for Accuracy
-Used Power Query to remove duplicates, correct formatting inconsistencies, apply uniform data types, and merge fragmented datasets, ensuring all values were reliable, analysable, and aligned across time periods and categories.
-
-## 3. Developed a Robust Analytical Data Model and Calculation Framework
-Designed relationships between country-level, regional, and category-based demographic tables and built DAX measures to calculate totals, percentages, projections, and comparative metrics essential for meaningful insight.
-
-## 4. Designed Clear, Insight-Driven Visualisations and Layout Structure
-Applied best practices in data visualisation to build maps, trend charts, and comparative analysis visuals that clearly communicated historical growth patterns, regional distribution, and cultural population characteristics.
-
-## 5. Implemented Scheduled Refresh and Insight Interpretation for Decision Support
-Enabled automated updates through Power BI Service so the dashboard reflects the latest available data over time, and provided narrative insight and interpretation, transforming raw data into a meaningful analytical tool for ongoing use.
-# Web Page
-https://www.worldometers.info/world-population/
-
-<img src="https://github.com/user-attachments/assets/c6a86232-3e3b-4ca8-a2ec-0479f1bd62d7" width="100%" alt="Screenshot 2025-12-07 180038" />
-
-# Dashboard Reporting
-The report demonstrates effective use of Power BI’s online data connectivity features. Online data sources could have been accessed through the Web connector in Power Query, enabling extraction from APIs, publicly available data portals, or structured web tables such as the World Bank datasets, United Nations population tables, or Pew Research data. Transformations would have included filtering, normalising values, and establishing data types suitable for calculations and modelling. Data relationships would then be maintained in a structured model, potentially using a star schema for clarity and efficiency. Measures and aggregations were likely written using DAX to compute totals, percentages, and growth indicators. Once published to Power BI Service, scheduled refresh functionality ensures that the report updates automatically in alignment with new data releases. The report is visually clear and logically structured. It progresses from historical context through present-day geographic distribution and finally into cultural demographic segmentation. The colour consistency, geographic mapping, clean labelling, and strong visual hierarchy contribute to professionalism and readability. The report format is scalable and capable of supporting additional views such as forecast projections, age structure analysis, or socio-economic overlays.
-
-<img src="https://github.com/user-attachments/assets/275ad198-30c6-475f-9689-35dc7166a9ee"  width="100%" alt="Screenshot 2025-12-07 173211"  />
-
-### [Project 5:PURE SIP'S BEVERSGES](https://github.com/akhimiejr/PureSip-Beverages)
-PureSip Beverages is a growing beverage distribution company supplying popular brands such as Coke, Fanta, Sprite, and other leading soft drinks to major retailers including Costco, Walgreens, Target, and Walmart. As the organisation expanded, sales reporting became increasingly fragmented due to reliance on separate spreadsheets managed by regional managers. To address challenges related to data consolidation, reporting accuracy, and analytical capability, PureSip implemented a Power BI solution using a centralised folder connection and automated refresh, enabling real-time visibility of performance across all locations.
-
-# Key Contributions
-
-## 1. Centralised Data Management
-PureSip Beverages implemented a robust shared folder structure accessible to all relevant stakeholders within the organisation. This centralised repository serves as the single source of truth for all regional sales data, replacing fragmented spreadsheets managed individually by regional managers. By consolidating all sales files into a unified, organised structure, the company eliminated duplication of effort, simplified data governance, and ensured that all teams work from consistent, up-to-date information.
-
-## 2. Automated Data Refresh and Integration
-Leveraging Power BI’s folder connection capability, the company automated the detection and integration of new sales spreadsheets as soon as they are uploaded to the shared folder. This automation removes the need for manual data consolidation, significantly reducing the time and effort required to prepare reports. The continuous, real-time data refresh ensures that decision-makers always have access to the most current information, enabling timely responses to market trends and sales opportunities.
-
-## 3. Enhanced Data Accuracy and Consistency
-By standardising the data collection process and automating integration, PureSip reduced errors arising from inconsistent spreadsheet formats, manual entry mistakes, and data duplication. This approach ensures high-quality, reliable data across all retailers and regions. Consistent data improves confidence in reports, reduces the risk of misinformed decisions, and allows management to track performance trends with greater accuracy.
-
-## 4. Improved Reporting and Analytics Capability
-The transition from static spreadsheets to Power BI enabled advanced reporting and analytical capabilities that were previously unattainable. The company can now leverage interactive dashboards, trend analysis, geographic visualisation, and performance comparisons across regions. These capabilities provide actionable insights into sales performance, help identify growth opportunities, and support strategic decision-making with clear, data-driven evidence.
-
-## 5.Operational Efficiency and Scalability
-Automating the data integration and reporting process freed staff from repetitive manual tasks such as consolidating spreadsheets and reconciling errors. This operational efficiency allows teams to focus on higher-value activities, such as analysing trends or developing sales strategies. Furthermore, the system is designed to scale easily: as PureSip expands to additional regions or retailers, the same folder structure and Power BI connection can accommodate new data without requiring structural changes, ensuring long-term sustainability of the reporting framework.
-
-# Dashboard Reporting
-This Report provides a comprehensive, filter-driven sales analysis for Pure Sip, incorporating slicers for Beverage Brand and Contact to allow users to tailor the view to specific product lines or customer groups. The KPI panel shows current performance against targets, with sales of £238,850, which is £11,150 below the £250,000 goal (–4.46%). Total sales amount to £1,213,018, supported by 2,309,850 units sold across four retailers. The sales trend visual illustrates month-by-month performance, rising from £82.1K in January to a peak of £116K in August, before stabilising around £115K in December. Below, regional analysis maps sales across key North American states, while brand performance charts identify Dasani Water, Coca-Cola, and Diet Coke as the leading contributors. Retailer analysis highlights Walmart as the top performer with £391.8K, followed by Costco, Walgreens, and Target. Together with the interactive slicers, the dashboard enables dynamic exploration of trends, channel contributions, and performance variations, supporting informed decision-making and targeted strategy refinement.
-
-
-<img src="https://github.com/user-attachments/assets/950294e9-9803-4a0d-b3b7-6ab9aa1f5181" width="100%" alt="Screenshot 2025-12-07 191117" />
 
 
 # TABLEAU PROJECTS
